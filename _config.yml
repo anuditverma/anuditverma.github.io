@@ -1,0 +1,123 @@
+# --- General options --- #
+
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+
+# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
+url: "http://anuditverma.github.io"
+baseurl: ""
+
+# If you are building a GitHub project page then use these settings:
+#url: "http://username.github.io/projectname"
+#baseurl: "/projectname"
+
+# Name of website
+title: Anudit Verma
+
+#For my changes
+# use meta-title: for the center heading of the page.
+# use title: to set the <title> of the web page.
+# use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
+
+# Short description of your site
+description: Anudit Verma - Let me introduce you to my geek side !
+
+# --- Navigation bar options --- #
+
+# List of links in the navigation bar
+navbar-links:
+  About Me: "aboutme"
+  Projects:
+    - GSoC'15: "https://www.google-melange.com/archive/gsoc/2015/orgs/civicrm/projects/anuditverma.html"
+  Resume: "resume/Anudit_Verma.pdf"
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/av.png"
+
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Anudit Verma
+# email: "youremail@domain.com"
+  facebook: anuditverma
+  github: anuditverma
+  twitter: anuditverma
+  google-plus: +AnuditVerma
+  linkedin: anuditverma
+  stackoverflow: 4590331/anudit-verma
+  instagram: anuditverma
+
+# Select which links to show in the footer
+footer-links-active:
+  rss: false
+  facebook: true
+  email: false
+  twitter: true
+  google-plus: true
+  github: true
+  linkedin: true
+  stackoverflow: false
+  instagram: true
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: true
+  linkedin: true
+
+# How to display the link to the website in the footer
+# Remove this if you don't want a link in the footer
+url-pretty: "anuditverma.github.io"
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "anuditverma"
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-84991519-1"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Asia/Kolkata"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - CNAME
+  - Vagrantfile
+
+gems:
+  - jekyll-paginate
