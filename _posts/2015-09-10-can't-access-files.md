@@ -13,7 +13,7 @@ I will tell you 3 ways to fix this, quick steps no fuss !
 
 #### __1. Using Terminal__:
 
-1.1 Quickly open the terminal or press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>T</kbd>
+1.1 Quickly open the terminal or press <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
 
 1.2 First you need to find out the partition's name which you want to access, run the following command:
 
