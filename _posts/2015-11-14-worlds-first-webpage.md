@@ -10,7 +10,7 @@ We have come a long way in terms of technology, our lives have never been so con
 <h3>Internet 'weighs the same as a strawberry' !</h3>
 </center>
 
-Yes ! now next time whenever you about to gobble a strawberry do remember that you are about to consume the same amount of weight as the entire Internet has (you might want to reconsider it if you are on a strict data diet.) This mind boggling fact was presented by Michael Stevens on his YouTube channel [Vsauce](https://www.youtube.com/user/Vsauce/videos) according to him __the weight of all the electrons in motion that make up the internet at any one moment is equivalent to 50 grams__, [here](https://www.youtube.com/watch?v=WaUzu-iksi8) is the video from his channel explaining how he estimated this weight.
+Yes ! now next time whenever you are about to gobble a strawberry do remember that you are going to consume the same amount of weight as the entire Internet has (you might want to reconsider it if you are on a strict data diet.) This mind boggling fact was presented by Michael Stevens on his YouTube channel [Vsauce](https://www.youtube.com/user/Vsauce/videos) according to him __the weight of all the electrons in motion that make up the Internet at any one moment is equivalent to 50 grams__, [here](https://www.youtube.com/watch?v=WaUzu-iksi8) is the video from his channel explaining how he estimated this weight.
 
 <h4>Let's us look into the brief history of the Web:</h4>
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), a British scientist at [CERN](http://home.cern/about), invented the World Wide Web (WWW) in 1989. The web was originally conceived and developed to meet the demand for automatic information-sharing between scientists in universities and institutes around the world.
@@ -24,7 +24,7 @@ On 30 April 1993 CERN put the World Wide Web software in the public domain. CERN
 
 
 <h4>The World's First Webpage:</h4>
-CERN has preserved and restored machine names, IP addresses to their original state, the first web address- a destination that would reflect the story of the beginnings of the web.
+CERN has preserved and restored machine names, IP addresses to their original state and the first web address- a destination that would reflect the story of the beginnings of the web.
 
 __Here is the image of the first webpage created, it was accessed through a line-mode browser.__
 
