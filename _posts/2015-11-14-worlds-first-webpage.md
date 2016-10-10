@@ -18,7 +18,7 @@ The first website at CERN - and in the world - was dedicated to the World Wide W
 
 __This NeXT Computer below used by Tim Berners-Lee at CERN became the world's first web server.__
 
-![The World's Web Server](/img/First_Web_Server.jpg "The World's Web Server")
+![The World's First Web Server](/img/First_Web_Server.jpg "The World's First Web Server")
 
 On 30 April 1993 CERN put the World Wide Web software in the public domain. CERN made the next release available with an open licence, as a more sure way to maximise its dissemination. Through these actions, making the software required to run a web server freely available, along with a basic browser and a library of code, the web was allowed to flourish.
 
