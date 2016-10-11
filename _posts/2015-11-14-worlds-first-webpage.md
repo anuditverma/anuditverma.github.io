@@ -14,7 +14,9 @@ Yes ! now next time whenever you are about to gobble a strawberry do remember th
 
 <h4>Let's us look into the brief history of the Web:</h4>
 [Tim Berners-Lee](https://www.w3.org/People/Berners-Lee/), a British scientist at [CERN](http://home.cern/about), invented the World Wide Web (WWW) in 1989. The web was originally conceived and developed to meet the demand for automatic information-sharing between scientists in universities and institutes around the world.
-The first website at CERN - and in the world - was dedicated to the World Wide Web project itself and was hosted on Berners-Lee's NeXT computer. The website described the basic features of the web; how to access other people's documents and how to set up your own server. The NeXT machine - the original web server - is still at CERN.
+The first website at CERN - and in the world - was dedicated to the World Wide Web project itself and was hosted on Berners-Lee's NeXT computer. The website described the basic features of the web; how to access other people's documents and how to set up your own server.
+
+The site went live on __August 6, 1991__, and was housed on Berners-Lees' NeXT computer, the first server, which had a note taped to the front that said: "This machine is a server. DO NOT POWER DOWN". The NeXT machine - the original web server - is still at CERN.
 
 __This NeXT Computer below used by Tim Berners-Lee at CERN became the world's first web server.__
 

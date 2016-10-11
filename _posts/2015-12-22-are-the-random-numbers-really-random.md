@@ -22,7 +22,7 @@ Good point Mr. White ! Now let's bring chaos theory into this picture or we call
 The infinite Universe, entropy, randomness and chaos, let's put all these things into a perspective of Aristotle and his attempt to explain about infinity and possibility of a order in chaos, here comes __The Infinite Monkey Theorem__, watch the video for explanation.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ipdRhgLWGXo"></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ipdRhgLWGXo" allowfullscreen></iframe>
 </div>
 
 
