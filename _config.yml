@@ -5,6 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 url: "http://anudit.in"
+enforce_ssl: "anudit.in"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
