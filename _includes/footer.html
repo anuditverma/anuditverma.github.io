@@ -23,12 +23,22 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.twitter and site.footer-links-active.twitter %}
+      {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
             <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter" target="_blank">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
+          {% endif %}
+    {% if site.author.reddit and site.footer-links-active.reddit %}
+          <li>
+            <a href="https://reddit.com/u/{{ site.author.reddit }}" title="Reddit" target="_blank">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
@@ -43,7 +53,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.email and site.footer-links-active.email %}
+      {% if site.author.email and site.footer-links-active.email %}
           <li>
             <a href="mailto:{{ site.author.email }}" title="Email me">
               <span class="fa-stack fa-lg">
@@ -53,7 +63,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.linkedin and site.footer-links-active.linkedin %}
+      {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
             <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn" target="_blank">
               <span class="fa-stack fa-lg">
@@ -63,7 +73,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.xing and site.footer-links-active.xing %}
+      {% if site.author.xing and site.footer-links-active.xing %}
           <li>
             <a href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing" target="_blank">
               <span class="fa-stack fa-lg">
@@ -73,7 +83,7 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+      {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
           <li>
             <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow" target="_blank">
               <span class="fa-stack fa-lg">
@@ -123,32 +133,32 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.footer-links-active.rss %}
-		  <li>
-			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS" target="_blank">
-			  <span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-			  </span>
-			</a>
-		  </li>
+      {% if site.footer-links-active.rss %}
+      <li>
+      <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+        <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+      </li>
           {% endif %}
         </ul>
         <p class="copyright text-muted">
-		  {{ site.author.name }}
-		  &nbsp;&bull;&nbsp;
-		  {{ site.time | date: '%Y' }}
+      {{ site.author.name }}
+      &nbsp;&bull;&nbsp;
+      {{ site.time | date: '%Y' }}
 
-		  {% if site.url-pretty %}
-		  &nbsp;&bull;&nbsp;
-		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
-	    </p>
-	        <!-- Please don't remove this, keep my open source work credited :) -->
-		<p class="theme-by text-muted">
-		  Awesome Theme by
-		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-		</p>
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% endif %}
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Awesome Theme by
+      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
       </div>
     </div>
   </div>

@@ -50,6 +50,12 @@ author:
   linkedin: anuditverma
   stackoverflow: 4590331/anudit-verma
   instagram: anuditverma
+# reddit: yourname
+# xing: yourname
+# stackoverflow: yourlink  # eg. "3943160/daattali"
+# snapchat: yourname
+# youtube: yourlink   # eg. user/daattali or channel/daattali
+# spotify: yourname
 
 # Select which links to show in the footer
 footer-links-active:
@@ -62,6 +68,12 @@ footer-links-active:
   linkedin: true
   stackoverflow: false
   instagram: true
+  reddit: false
+  xing: false
+  stackoverflow: false
+  snapchat: false
+  youtube: false
+  spotify: false
 
 # Select which share links to show in posts
 share-links-active:
@@ -81,6 +93,13 @@ disqus: "anuditverma"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-84991519-1"
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
