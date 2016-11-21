@@ -450,7 +450,7 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-  }	
+  } 
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
@@ -661,4 +661,15 @@ td.gutter {
     0% { opacity:1; }
     50% { opacity:0; }
     100% { opacity:1; }
+}
+
+@media screen and (max-width: 600px) {
+  .typed-js-hide {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
 }
