@@ -37,7 +37,8 @@ $δ = dsinθ = (m + \frac{1}{2})λ,  m = 0, ±1, ± 2, ± 3, ...$
 $$Y_{d} = (m + \frac{1}{2})\frac{λL}{d}$$
 
 
-Source: [MIT course notes](http://web.mit.edu/viz/EM/visualizations/coursenotes/modules/guide14.pdf)
+Source: [MIT course notes](http://web.mit.edu/viz/EM/visualizations/coursenotes/modules/guide14.pdf)<br>
+Note: Disable ad blocker if you see a Math Processing Error.
 
 This debate has raged for generations amongst the giants of the physics community regarding the nature of light, namely whether it is a particle or an electromagnetic wave. For centuries, this mysterious and elusive phenomenon left scientists baffled because with each experiment conducted to define its nature, it seemed to change the way it behaved.
 
