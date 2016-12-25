@@ -36,6 +36,10 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/av.png"
 
+# If you want to have an image logo in the top-left corner instead of the title text,
+# then specify the following parameter. The logo will have a height of 40px
+# title-img: /path/to/image
+
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
@@ -130,6 +134,9 @@ defaults:
       layout: "page"
       show-avatar: true
 
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
+
 # Exclude these files from production site
 exclude:
   - Gemfile
@@ -138,6 +145,45 @@ exclude:
   - README.md
   - CNAME
   - Vagrantfile
+
+#Meta data for your Posts
+metadata:
+  _posts:
+    - name: "layout"
+      field:
+        element: "hidden"
+        value: "post"
+    - name: "title"
+      field:
+        element: "text"
+        label: "Post title"
+        placeholder: "Title"
+        alterable: true
+    - name: "subtitle"
+      field:
+        element: "textarea"
+        label: "Subtitle"
+        placeholder: "A description of your post."
+        alterable: true
+    - name: "date"
+      field:
+        element: "text"
+        label: "Date"
+        help: "Enter date of post."
+        placeholder: "yyyy-mm-dd"
+        alterable: true
+    - name: "image"
+      field:
+        element: "text"
+        label: "Image"
+        help: "Add a thumbnail image to your post."
+        placeholder: "Thumbnail"
+        alterable: true
+    - name: "published"
+      field:
+        element: "checkbox"
+        label: "Publish"
+        help: "Check to publish post, uncheck to hide."
 
 gems:
   - jekyll-paginate
