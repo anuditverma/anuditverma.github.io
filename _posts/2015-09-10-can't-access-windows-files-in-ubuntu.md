@@ -2,6 +2,8 @@
 layout: post
 title: "Why I'm unable to access my Windows' drives in Ubuntu ?"
 tags: [linux, windows, dual boot, hack]
+image: http://www.anudit.in/img/img/WinVsUb.jpg
+share-img: http://www.anudit.in/img/img/WinVsUb.jpg
 ---
 
 __The scenario:__ You have just installed a freshly brewed linux image along side with your Windows OS, everything works fine but then you realise you are not able to mount/access your Windows' partitions. 
