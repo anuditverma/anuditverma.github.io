@@ -89,6 +89,8 @@ The final binary is in ```/usr/local/bin/gmediarender``` (unless you changed the
 
 
 <h3>Let's Play Some Music</h3>
+Connect your sound system/speakers to your Raspberry Pi through on-board 3.5 mm audio connector, a normal 3.5 mm to RCA Audio cable would be sufficient for this setup.
+
 Now you will need a UPnP™ controller/client to send some playable content to your Raspberry Pi, I am using [BubbleUPnP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp), you can use any of the UPnP™ client/stream-able App.
 
 * Open BubbleUPnP App.
@@ -118,7 +120,7 @@ Now you should be able to listen to your songs streamed over WiFi to your sound 
 
 <center><img src="/img/wifi_streamer/win_playto.jpg"></center>
 
-I hope you enjoyed setup-ing your own wireless music streamer, I will leave with some useful links to make your music listening experience even more enjoyable.
+I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. I will leave you with some useful links to make your music listening experience even more enjoyable.
 
 <h3>Useful Links:</h3>
 
