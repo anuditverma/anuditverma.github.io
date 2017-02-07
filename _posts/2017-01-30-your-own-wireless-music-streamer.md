@@ -120,7 +120,7 @@ Now you should be able to listen to your songs streamed over WiFi to your sound 
 
 <center><img src="/img/wifi_streamer/win_playto.jpg"></center>
 
-I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. I will leave you with some useful links to make your music listening experience even more enjoyable.
+I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. Special thanks to [Henner Zeller](https://github.com/hzeller) for making a resurrect version of the old [GMediaRender](http://gmrender.nongnu.org/) project and adding useful features. I will leave you with some useful links to make your music listening experience even more enjoyable.
 
 <h3>Useful Links:</h3>
 
