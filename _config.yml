@@ -27,8 +27,12 @@ description: Anudit Verma - Let me introduce you to my geek side !
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Publications:
+    - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
   Projects:
-    - GSoC'15: "https://www.google-melange.com/archive/gsoc/2015/orgs/civicrm/projects/anuditverma.html"
+    - GSoC'15: "https://github.com/anuditverma/org.civicrm.osdi"
+    - Airtel Suvidha: "https://www.hackerearth.com/sprints/airtel-hackathon/dashboard/Ignited_Minds/submission/"
+    - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
     - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
   Resume / CV: "resume/Anudit_Verma.pdf"
 
