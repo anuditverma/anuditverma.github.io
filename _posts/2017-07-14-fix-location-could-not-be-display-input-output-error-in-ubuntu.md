@@ -33,6 +33,21 @@ Now let's get to the solution, follow these steps:
 1. Click __Start__, click __All Programs__, and then click __Accessories__ or type __cmd__ in the Search box.
 2. Right-click __Command prompt__, and then click __Run as administrator__.
 
+<div class="ads">
+<div class="typed-js-hide">
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":728,"height":90,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
+</div>
+</div>
+
 #### __3. Run chkdsk on cmd.__
 
 * Now on the cmd, you need to __run chkdsk on your affected drive__ to repair the errors, run the following command (if you want to run check C: Drive)
