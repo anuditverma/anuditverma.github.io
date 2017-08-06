@@ -12,11 +12,25 @@ If you are having trouble accessing your Window's partition from inside Ubuntu b
 <center><h3>First of all you need to know why this is happening ?</h3></center>
 * If you are having a dual boot machine with Windows and Ubuntu and your are frequently switching between operating systems (that's not a problem at all) but you might not be shutting down Windows properly or there is a power cut while shutting down or you forced it to shut down, then your partition might get corrupted.
 
+<div class="ads">
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":320,"height":50,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
+</div>
+
 * If you have accidentally deleted some important hidden system or configuration files (used by Ubuntu) from inside Windows.
 
 * You have tried to open ext4 partition ( on which Ubuntu is installed) from Windows, this will delete the whole partition or either get corrupted or completed formatted.
 
 * You might be getting the input/output error because of some hardware failure or hardware issues, then this guide might not help you, then it would be best to get the backup of your data by using a data recovery tool and replace your hard drive.
+
 
 <h3>Solution:</h3> Now if you are sure that your hardware is working fine then there might be a problem with your GPT partition table which might be damaged or with a corrupted file system. In order to repair this we will use __chkdsk,__ it is a tool to display the file system integrity status of hard disks and can fix logical file system errors. 
 
