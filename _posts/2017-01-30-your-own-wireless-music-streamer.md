@@ -8,6 +8,19 @@ share-img: http://www.anudit.in/img/wifi_streamer/rPi.jpg
 
 Yes! you read it right, make your own wireless music streamer but it's not a conventional Bluetooth based wireless player we have been using over A2DP to your Bluetooth enabled speakers, it's even more better, __with the help of a Raspberry Pi you can make just any speakers with 3.5 mm audio connector be able to receive high quality music from your Android, iPhone, Mac, Laptop or PC__ placed far away from your music system setup over your wireless network infrastructure (Wi-Fi network). Sounds cool, right ?
 
+<div class="ads">
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":320,"height":50,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
+</div>
+
 So let's dive into this tutorial and make a worthwhile use of your Raspberry Pi, here are the things we will need in order to move further:
 
 <h3>Requirements:</h3>
@@ -90,6 +103,21 @@ The final binary is in ```/usr/local/bin/gmediarender``` (unless you changed the
 
 <h3>Let's Play Some Music</h3>
 Connect your sound system/speakers to your Raspberry Pi through on-board 3.5 mm audio connector, a normal 3.5 mm to RCA Audio cable would be sufficient for this setup.
+
+<div class="ads">
+<div class="typed-js-hide">
+<script type="text/javascript">
+  ( function() {
+    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
+    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":728,"height":90,"sid":"Chitika Default"};
+    var placement_id = window.CHITIKA.units.length;
+    window.CHITIKA.units.push(unit);
+    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
+}());
+</script>
+<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
+</div>
+</div>
 
 Now you will need a UPnP™ controller/client to send some playable content to your Raspberry Pi, I am using [BubbleUPnP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp), you can use any of the UPnP™ client/stream-able App.
 
