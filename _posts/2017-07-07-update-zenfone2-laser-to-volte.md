@@ -129,7 +129,7 @@ This method intends to __solve /asdf related errors,__ we will use a custom reco
 * On TWRP recovery, navigate to __Wipe__, now select __Dalvik/ART cache, System, Data, Internal storage, Cache, ASDF.__
 * Swipe right to Wipe.
 * Since we __cannot use TWRP for flashing the desired stock firmware,__ we will flash Stock Recovery in the phone.
-* Disconnect your phone and remove battery, now again boot into the __Fastboot Mode!!__ , this time use __Volume Up__ and __Power Button__ together.
+* Disconnect your phone from the PC, unplug the USB cable and remove the battery to turn the phone off, then install the battery again, now boot into the __Fastboot Mode!!__ , this time use __Volume Up__ and __Power Button__ together.
 * Connect your phone to PC, again open cmd in the adb folder, now type __fastboot flash recovery recovery.img__ let it FINNISH, similary type __fastboot flash boot boot.img__ again let this FINNISH too.
 
 <div class="ads">
