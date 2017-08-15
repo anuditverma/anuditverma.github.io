@@ -161,6 +161,8 @@ Then select __reboot system now,__ wait for the boot process to complete, it may
 
 <center><img src="/img/zenfone_volte/zenfone_collage.jpg"></center>
 
+NOTE: __Test your phone with a 4G enabled network (SIM) to test VoLTE capabilities (for example I used Jio SIM to test VoLTE) and make sure VoLTE option is enabled in Network Settings. This will also help you see a small VoLTE icon in the status area.__
+
 I hope you have successfully installed the new update __UL-Z00L-WW-21.40.1220.2153-user.zip__ on your __ASUS Zenfone 2 Laser (ZE550KL)__ device, if not comment below your queries or questions, I will be glad to help you.
 
 <h3>Useful Links:</h3>
