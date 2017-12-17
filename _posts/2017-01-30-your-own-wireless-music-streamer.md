@@ -6,7 +6,7 @@ image: http://www.anudit.in/img/wifi_streamer/rPi.jpg
 share-img: http://www.anudit.in/img/wifi_streamer/rPi.jpg
 ---
 
-Yes! you read it right, make your own wireless music streamer but it's not a conventional Bluetooth based wireless player we have been using over A2DP to your Bluetooth enabled speakers, it's even more better, __with the help of a Raspberry Pi you can make just any speakers with 3.5 mm audio connector be able to receive high quality music from your Android, iPhone, Mac, Laptop or PC__ placed far away from your music system setup over your wireless network infrastructure (Wi-Fi network). Sounds cool, right ?
+Yes! you read it right, make your own wireless music streamer but it's not a conventional Bluetooth based wireless player we have been using over A2DP to your Bluetooth enabled speakers, it's even better, __with the help of a Raspberry Pi you can make just any speakers with 3.5 mm audio connector be able to receive high-quality music from your Android, iPhone, Mac, Laptop or PC__ placed far away from your music system set up over your wireless network infrastructure (Wi-Fi network). Sounds cool, right?
 
 <div class="ads">
 <script type="text/javascript">
@@ -33,7 +33,7 @@ So let's dive into this tutorial and make a worthwhile use of your Raspberry Pi,
 
 <h4>Software:</h4> 
 
-* Raspbian, Ubuntu (MATE, Snappy), Debian, most linux based OS
+* Raspbian, Ubuntu (MATE, Snappy), Debian, most Linux based OS
 * git
 * [GMediaRender](http://gmrender.nongnu.org/) (a UPnP™ media renderer)
 * Some dependencies (we will cover them during installation steps)
@@ -91,7 +91,7 @@ make
  Then it will be ready for renderering, as shown below. 
 ![Raspbian Setup](/img/wifi_streamer/raspbian.jpg "Terminal on Raspbian")
 
-You can name your renderer anything you want, based on location of the sound system (eg: Living Room, Hall etc) or you can name it after your speakers (I have named it Gravity Speakers).
+You can name your renderer anything you want, based on the location of the sound system (eg: Living Room, Hall etc) or you can name it after your speakers (I have named it Gravity Speakers).
 
 4: Make Final Binary. 
 
@@ -102,7 +102,7 @@ The final binary is in ```/usr/local/bin/gmediarender``` (unless you changed the
 
 
 <h3>Let's Play Some Music</h3>
-Connect your sound system/speakers to your Raspberry Pi through on-board 3.5 mm audio connector, a normal 3.5 mm to RCA Audio cable would be sufficient for this setup.
+Connect your sound system/speakers to your Raspberry Pi through onboard 3.5 mm audio connector, a normal 3.5 mm to RCA Audio cable would be sufficient for this setup.
 
 <div class="ads">
 <div class="typed-js-hide">
@@ -122,9 +122,9 @@ Connect your sound system/speakers to your Raspberry Pi through on-board 3.5 mm 
 Now you will need a UPnP™ controller/client to send some playable content to your Raspberry Pi, I am using [BubbleUPnP](https://play.google.com/store/apps/details?id=com.bubblesoft.android.bubbleupnp), you can use any of the UPnP™ client/stream-able App.
 
 * Open BubbleUPnP App.
-* Click on overflow button on the top left corner.
+* Click on overflow button in the top left corner.
 * Look for a 'Local Renderer', your local renderer will appear under the local renderers' list, if you are unable to see it, check your phone if it is connected to the WiFi network or not, __your local renderer and your phone should be on the same network in order to communicate with each other.__
-* Select your Local Renderer, now go to Library and select your favourite track you want to play, you can also create a playlist and play all your tracks that are stored locally on your phone. (This is one of the advantage that BubbleUPnP offers over other Apps.)
+* Select your Local Renderer, now go to Library and select your favourite track you want to play, you can also create a playlist and play all your tracks that are stored locally on your phone. (This is one of the advantages that BubbleUPnP offers over other Apps.)
 
 ![BubbleUPnP](/img/wifi_streamer/bubble_upnp.jpg "BubbleUPnP App")
 
@@ -132,23 +132,23 @@ Now you will need a UPnP™ controller/client to send some playable content to y
 
 
 <h3>Also on Windows...</h3>
-Because yeah fortunately, there is an inbuilt support for streaming UPnP™/DLNA content right from Windows Media Player, so kudos to Microsoft for this. Follow these steps for streaming your content.
+Because yeah, fortunately, there is an inbuilt support for streaming UPnP™/DLNA content right from Windows Media Player, so kudos to Microsoft for this. Follow these steps for streaming your content.
 
 * Open Windows Media Player.
-* Select your favourite track, on the right side pane, there will be a 'Play To' icon on the Play Tab.
+* Select your favourite track, in the right side pane, there will be a 'Play To' icon on the Play Tab.
 * Select this option and wait for your local renderer to appear.
 
 <center>OR</center>
 
 * Quickly right click on the audio file you want to play/stream.
-* On the context menu observe 'Cast to Device' sub-menu.
-* Select your local renderer again and Voila ! 
+* On the context menu observe 'Cast Device' sub-menu.
+* Select your local renderer again and Voila! 
 
-Now you should be able to listen to your songs streamed over WiFi to your sound system setup. You can add your tracks in this small player Window and create your own digital mix tape.
+Now you should be able to listen to your songs streamed over WiFi to your sound system setup. You can add your tracks in this small player Window and create your own digital mixtape.
 
 <center><img src="/img/wifi_streamer/win_playto.jpg"></center>
 
-I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. Special thanks to [Henner Zeller](https://github.com/hzeller) for making a resurrect version of the old [GMediaRender](http://gmrender.nongnu.org/) project and adding useful features. I will leave you with some useful links to make your music listening experience even more enjoyable.
+I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. Special thanks to [Henner Zeller](https://github.com/hzeller) for making a resurrected version of the old [GMediaRender](http://gmrender.nongnu.org/) project and adding useful features. I will leave you with some useful links to make your music listening experience even more enjoyable.
 
 <h3>Useful Links:</h3>
 
