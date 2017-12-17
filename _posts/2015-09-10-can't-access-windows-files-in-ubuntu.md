@@ -6,7 +6,7 @@ image: http://www.anudit.in/img/WinVsUb.jpg
 share-img: http://www.anudit.in/img/io-error.jpg
 ---
 
-__The scenario:__ You have just installed a freshly brewed linux image along side with your Windows OS, everything works fine but then you realise you are not able to mount/access your Windows' partitions. 
+__The scenario:__ You have just installed a freshly brewed Linux image alongside with your Windows OS, everything works fine but then you realise you are not able to mount/access your Windows' partitions. 
 
 <div class="ads">
 <script type="text/javascript">
@@ -24,7 +24,7 @@ __The scenario:__ You have just installed a freshly brewed linux image along sid
 __So why is this happening ?__ If you have Windows 8 or later version then you might face this problem because of the fast-startup (aka fast-boot) feature, which must be turned off, what it does is it allows your computer to go in a partial sleep state or hibernation state which helps Windows to boot up quickly, in technical terms Windows' kernel still possess the control of your hardware even if you shutdown/restart your computer and boot into a different OS.
 
 __What should you do then ?__:
-I will tell you 3 ways to fix this, quick steps no fuss !
+I will tell you 3 ways to fix this, quick steps no fuss!
 FYI, little over with more experimentation with bootloader and MBR records displayed in the BIOS settings, I was able to find a new way to easily make Windows files accessible, so now there are __4 ways !__ 
 
 Let's check them out, but before actually going with one of the methods make sure to read all the steps and choose the one according to your situation you are in.
@@ -53,7 +53,7 @@ Run this command (if the previous didn't work)
 ```bash
 sudo ntfsfix /dev/<YOUR-Partition-name>
 ```
-It only repairs some fundamental NTFS inconsistencies and resets the NTFS journal file, its a very quick way to access your drives if you need them urgently __BUT__ it schedules an NTFS consistency check for the first boot into Windows.
+It only repairs some fundamental NTFS inconsistencies and resets the NTFS journal file, it's a very quick way to access your drives if you need them urgently __BUT__ it schedules an NTFS consistency check for the first boot into Windows.
 
 
 #### __2. Disabling Fast Startup (Permanent fix but at the cost of increased bootup time)__:
@@ -88,13 +88,13 @@ __NOTE:__ Remember, doing such a permanent method could hamper some of your Wind
 
 #### __3. (Re)boot Way (Use this when you are about to Power up your system)__:
 
-Nothing technical, the most easiest way but might take some time, depending upon your machine configuration and bootup timings. Just sit back, relax and watch your computer booting up (meanwhile check your phone or try recollecting what you will be doing after the boot up or clean the dust off your laptop, (first world problems, I know right) so let's dive in,
+Nothing technical, the easiest way but might take some time, depending on your machine configuration and bootup timings. Just sit back, relax and watch your computer booting up (meanwhile check your phone or try recollecting what you will be doing after the bootup or clean the dust off your laptop, (first world problems, I know right) so let's dive in,
 
 3.1 __Restart/Turn on__ your computer and __boot up Windows OS first__ (with GRUB or any other bootloader you use to switch OS ), till login screen.
 
 3.2 __Don't__ enter your credentials to login, just don't login, instead __restart again.__ 
 
-3.3 Now this time bootup into Ubuntu, login and check if you can access your drives or not. (if not select method 2 or 3)
+3.3 Now this time boot up into Ubuntu, login and check if you can access your drives or not. (if not select method 2 or 3)
 
 #### __4. Reboot Shutdown Reboot (RSR, a quick way, requires Ninja Skills)__:
 
@@ -108,7 +108,7 @@ According to me this seems a more efficient way (less time consuming) to make th
 
 
 ### __Conclusion__:
-Choose any method depending upon your needs, follow method 2, if you use Ubuntu more frequently (or your primary OS is Ubuntu) it's a permanent solution. Use method 1 or 3 which are temporary solutions if you use Windows equally. Try method 4 if you need to something in between permanent and temporary.
+Choose any method depending on your needs, follow method 2, if you use Ubuntu more frequently (or your primary OS is Ubuntu) it's a permanent solution. Use method 1 or 3 which are temporary solutions if you use Windows equally. Try method 4 if you need to something in between permanent and temporary.
 
 <div class="ads">
 <div class="typed-js-hide">
