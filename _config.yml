@@ -64,6 +64,9 @@ author:
 # snapchat: yourname
 # youtube: yourlink   # eg. user/daattali or channel/daattali
 # spotify: yourname
+# steam: yourname
+# twitch: yourname
+# yelp: yourname
 
 # Select which links to show in the footer
 footer-links-active:
@@ -82,6 +85,9 @@ footer-links-active:
   snapchat: false
   youtube: false
   spotify: false
+  steam: false
+  twitch: false
+  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
