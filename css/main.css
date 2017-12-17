@@ -209,7 +209,7 @@ img {
     width: 100px;
     margin-top: -50px;
   }
-  
+
   .navbar-custom .avatar-container  .avatar-img-border {
     width: 100%;
     box-shadow: 1px 1px 2px rgba(0, 0, 0, .8);
@@ -254,7 +254,7 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
-  }  
+  }
   .navbar-custom .nav .navlinks-container:hover {
     background: #eee;
   }
@@ -280,11 +280,11 @@ footer {
   margin-top: 50px;
   font-size: 14px;
   {% if site.footer-col %}
-    background: {{ site.footer-col }};
-    {% endif %}
-    {% if site.footer-img %}
-    background-image: url({{ site.footer-img }});
-    background-attachment: fixed;
+  background: {{ site.footer-col }};
+  {% endif %}
+  {% if site.footer-img %}
+  background-image: url({{ site.footer-img }});
+  background-attachment: fixed;
   {% endif %}
 }
 
@@ -317,7 +317,7 @@ footer .theme-by {
     font-size: 16px;
   }
 }
- 
+
 /* --- Post preview --- */
 
 .post-preview {
@@ -528,11 +528,11 @@ footer .theme-by {
   }
   .intro-header.big-img {
     margin-top: 91px;  /* Full navbar is small navbar + 20px padding on each side when expanded */
-  } 
+  }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
     padding: 150px 0;
-  }  
+  }
   .intro-header .page-heading h1 {
     font-size: 80px;
   }
@@ -569,8 +569,8 @@ footer .theme-by {
   }
   .header-section.has-img .big-img {
     margin-bottom: 0;
-  }  
-} 
+  }
+}
 @media only screen and (max-width: 325px) { 
   .intro-header.big-img {
     height: 200px;
@@ -768,60 +768,27 @@ td.gutter {
 }
 
 /* --- Notification boxes --- */
+.box-note, .box-warning, .box-error {
+  padding: 15px 15px 15px 10px;
+  margin: 20px 20px 20px 5px;
+  border: 1px solid #eee;
+  border-left-width: 5px;
+  border-radius: 5px 3px 3px 5px;
+}
 
 .box-note {
   background-color: #eee;
-  padding: 15px;
-  padding-left: 10px;
-  margin: 20px;
-  margin-left: 5px;
-  border: 1px solid #eee;
-  border-left-width: 5px;
   border-left-color: #2980b9;
-  border-radius: 3px;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
 }
 
 .box-warning {
   background-color: #fdf5d4;
-  padding: 15px;
-  padding-left: 10px;
-  margin: 20px;
-  margin-left: 5px;
-  border: 1px solid #eee;
-  border-left-width: 5px;
   border-left-color: #f1c40f;
-  border-radius: 3px;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
 }
 
 .box-error {
   background-color: #f4dddb;
-  padding: 15px;
-  padding-left: 10px;
-  margin: 20px;
-  margin-left: 5px;
-  border: 1px solid #eee;
-  border-left-width: 5px;
   border-left-color: #c0392b;
-  border-radius: 3px;
-  border-top-left-radius: 5px;
-  border-bottom-left-radius: 5px;
-}
-
-/* Icon Colors */
-.icon-blue {
-  color: #2980b9;
-}
-
-.icon-yellow {
-color: #f1c40f;
-}
-
-.icon-red{
-  color: #c0392b;
 }
 
 /* Fix table border github gist snippets */
