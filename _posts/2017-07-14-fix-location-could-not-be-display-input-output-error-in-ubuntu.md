@@ -10,7 +10,7 @@ If you are having trouble accessing your Window's partition from inside Ubuntu b
 <center><img src="/img/io-error.jpg"></center>
 
 <center><h3>First of all you need to know why this is happening ?</h3></center>
-* If you are having a dual boot machine with Windows and Ubuntu and your are frequently switching between operating systems (that's not a problem at all) but you might not be shutting down Windows properly or there is a power cut while shutting down or you forced it to shut down, then your partition might get corrupted.
+* If you are having a dual boot machine with Windows and Ubuntu and you are frequently switching between operating systems (that's not a problem at all) but you might not be shutting down Windows properly or there is a power cut while shutting down or you forced it to shut down, then your partition might get corrupted.
 
 <div class="ads">
 <script type="text/javascript">
@@ -71,7 +71,7 @@ chkdsk /f C:
 ```
 This will check the C: drive for errors, and fix them if detected.
 
-* Alternatively you can also type,
+* Alternatively, you can also type,
 
 ```bash
 chkdsk /r C:
