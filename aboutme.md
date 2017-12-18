@@ -7,9 +7,9 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 
 Hi again, my name is Anudit Verma, I obtained my Bachelor of Technology degree in Computer Science & Engineering (CSE) from University School of Information, Communication and Technology ([USICT](http://www.ipu.ac.in/usict/){:target="_blank"}), New Delhi, India.
 
-I'm a programmer, software developer, hackathonist and a gamer, apart from those I love listening to music. I love to create digital art and play around with my Photoshop skills. Loves to meet new people, connect, discuss, network and grow, mostly at software developers' conferences, dev-fests and gaming meet-ups.
+I'm a programmer, software developer, hackathon enthusiast and a gamer, apart from those I love listening to music. I love to create digital art and play around with my Photoshop skills. Loves to meet new people, connect, discuss, network and grow, mostly at software developers' conferences, dev-fests and gaming meet-ups.
 
-An avid open source enthusiast, contributor and a linux guy. So let's connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail [here](mailto:contact@anudit.in).
+An avid open source enthusiast, contributor and a Linux guy. So let's connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail [here](mailto:contact@anudit.in).
 
 <center>
 	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
