@@ -5,11 +5,33 @@ meta-title: About me
 subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
 ---
 
-Hi again, my name is Anudit Verma, I obtained my Bachelor of Technology degree in Computer Science & Engineering (CSE) from University School of Information, Communication and Technology ([USICT](http://www.ipu.ac.in/usict/){:target="_blank"}), New Delhi, India.
+<div id="aboutme-section">
 
-I'm a programmer, software developer, hackathon enthusiast and a gamer, apart from those I love listening to music. I love to create digital art and play around with my Photoshop skills. Loves to meet new people, connect, discuss, network and grow, mostly at software developers' conferences, dev-fests and gaming meet-ups.
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer hailing from New Delhi, India.
+</p>
 
-An avid open source enthusiast, contributor and a Linux guy. So let's connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail [here](mailto:contact@anudit.in).
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+I obtained my Bachelor of Technology degree in <strong>Computer Science & Engineering (CSE) </strong>from University School of Information, Communication and Technology (<a target="_blank" href="http://www.ipu.ac.in/usict/">USICT</a>) in New Delhi, India.
+</p>
+
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+I am a programmer, software developer and a hackathon enthusiast.
+</p>
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+Also, I am a gamer, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music. Loves to meet new people, connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests and gaming meet-ups.
+</p>
+
+<p class="about-text">
+<span class="fa fa-envelope about-icon"></span>
+Let’s connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+</p>
+
 
 <center>
 	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
