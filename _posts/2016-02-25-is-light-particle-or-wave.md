@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Light: Particle or Wave ?"
+title: "Light: Particle or Wave?"
 tags: [science, experiment, nature of matter, wave, particle]
 ---
 
-<center><h2>Does light behaves like particles or waves ?</h2></center>
+<center><h2>Does light behave like particles or waves?</h2></center>
 Believe me or not this very question, is the reason which keeps most of the physicists baffled about the strange nature of the particles in the world of quantum mechanics. When I was in school, about an age of 11 or 12, when my elder brother showed me a video of a famous experiment called Double Slit Experiment.
 
 That video ignited a new spark of curiosity within me, seriously just think about this, we have been to moon and back, carried out successful missions to Mars and achieved so much advancements in the field of science and technology yet there are areas like these where we are still struggling to find the absolute answers about the nature of the world we live in. 

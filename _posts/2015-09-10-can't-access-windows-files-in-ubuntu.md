@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why I'm unable to access my Windows' drives in Ubuntu ?"
+title: "Why I'm unable to access my Windows' drives in Ubuntu?"
 tags: [linux, windows, dual boot, hack]
 image: http://www.anudit.in/img/WinVsUb.jpg
 share-img: http://www.anudit.in/img/io-error.jpg
@@ -21,11 +21,11 @@ __The scenario:__ You have just installed a freshly brewed Linux image alongside
 <script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
 </div>
 
-__So why is this happening ?__ If you have Windows 8 or later version then you might face this problem because of the fast-startup (aka fast-boot) feature, which must be turned off, what it does is it allows your computer to go in a partial sleep state or hibernation state which helps Windows to boot up quickly, in technical terms Windows' kernel still possess the control of your hardware even if you shutdown/restart your computer and boot into a different OS.
+__So why is this happening?__ If you have Windows 8 or later version then you might face this problem because of the fast-startup (aka fast-boot) feature, which must be turned off, what it does is it allows your computer to go in a partial sleep state or hibernation state which helps Windows to boot up quickly, in technical terms Windows' kernel still possess the control of your hardware even if you shutdown/restart your computer and boot into a different OS.
 
-__What should you do then ?__:
+__What should you do then?__:
 I will tell you 3 ways to fix this, quick steps no fuss!
-FYI, little over with more experimentation with bootloader and MBR records displayed in the BIOS settings, I was able to find a new way to easily make Windows files accessible, so now there are __4 ways !__ 
+FYI, little over with more experimentation with bootloader and MBR records displayed in the BIOS settings, I was able to find a new way to easily make Windows files accessible, so now there are __4 ways!__ 
 
 Let's check them out, but before actually going with one of the methods make sure to read all the steps and choose the one according to your situation you are in.
 

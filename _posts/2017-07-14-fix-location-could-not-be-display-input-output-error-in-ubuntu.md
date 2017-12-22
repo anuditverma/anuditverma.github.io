@@ -9,7 +9,7 @@ If you are having trouble accessing your Window's partition from inside Ubuntu b
 
 <center><img src="/img/io-error.jpg"></center>
 
-<center><h3>First of all you need to know why this is happening ?</h3></center>
+<center><h3>First of all, you need to know why this is happening?</h3></center>
 * If you are having a dual boot machine with Windows and Ubuntu and you are frequently switching between operating systems (that's not a problem at all) but you might not be shutting down Windows properly or there is a power cut while shutting down or you forced it to shut down, then your partition might get corrupted.
 
 <div class="ads">
@@ -82,7 +82,7 @@ I hope this will solve your problem, __"This location could not be displayed" an
 
 <h3>Useful Links:</h3>
 
-* Complete guide on chkdsk can be found [here.](https://neosmart.net/wiki/chkdsk/)
+* A complete guide on chkdsk can be found [here.](https://neosmart.net/wiki/chkdsk/)
 * Read more about chkdsk from Microsoft, from their official [source.](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/chkdsk.mspx?mfr=true)
 
 Thank you for reading.
