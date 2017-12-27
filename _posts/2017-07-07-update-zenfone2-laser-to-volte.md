@@ -172,3 +172,6 @@ I hope you have successfully installed the new update __UL-Z00L-WW-21.40.1220.21
 * Your ASUS Zenfone 2 Laser (ZE550KL) [device specification.](https://www.asus.com/in/Phone/ZenFone-2-Laser-ZE550KL/specifications/)
 
 Thank you for reading.
+
+__PS__: I think you deserve some merriment after performing those exasperating steps, so here is a small joke for you. 
+<center><img src="/img/TWRP_joke.jpg" height="636" width="540"></center>
