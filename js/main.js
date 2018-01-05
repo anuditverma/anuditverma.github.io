@@ -10,8 +10,10 @@ var main = {
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
             $(".navbar").addClass("top-nav-short");
+            $(".navbar-custom .avatar-container").fadeOut(500)
         } else {
             $(".navbar").removeClass("top-nav-short");
+            $(".navbar-custom .avatar-container").fadeIn(500);
         }
     });
     
