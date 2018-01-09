@@ -59,6 +59,8 @@ E:Can't open /asdf/recovery/last_log
 
 Now you can see the system is unable to mount or open /asdf partition for formatting. This is the main reason which is causing those errors when you try to perform factory resets or flashing (writing updates to memory) OTA updates. This may have really pissed you off, so how to solve this? This may be one of the reasons you ended up on this page, so let's dive in and start with the process, shall we?
 
+Also, if you are wondering what is ASDF? Well, it stands for __Abnormal Shutdown Detection Feature (ASDF)__.
+
 I was in the same scenario a few months back when I published this post, I decided to wait for the OEM (Original Equipment Manufacturer) ASUS in this case, to provide an update with a patch for this, but nothing seemed to work out. Then after searching and experimenting with various methods/steps/guides/tutorials on the Internet, I devised my own simple steps which have worked really well for me.
 
 I am going to mention two methods, go with __method one__ first if it fails to proceed with __method 2__. So without taking much time, let start:
