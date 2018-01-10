@@ -102,10 +102,10 @@ Then select __reboot system now,__ wait for the boot process to complete, it may
 This method is intended to __solve /asdf related errors,__ we will use a custom recovery called __TWRP__ other than stock recovery to __wipe asdf and system__ partitions which were not possible with stock recovery.
 
 <h4>Requirements</h4>
-* Install [ADB Drivers](http://adbdriver.com/downloads/) on your PC.
-* Install [Minimal ADB & Fastboot 1.4.3](https://drive.google.com/uc?export=download&id=0B0MKgCbUM0itNVB1elljU2NPR0k) again on your PC.
-* Go to this [Cloud Drive](https://mega.nz/#F!lodnzDhK!H5ChxausDTyko1qGlnF7dw) and select the directory with your existing build version, download only __boot.img__ and __recovery.img__ from it and place these two files in __adb folder__ (This folder will be generated after adb & fastboot installation.)
-* Download [TWRP Recovery](https://dl.twrp.me/Z00L/) for ASUS ZenFone 2 Laser (Code Name: Z00L) and copy this too in __adb folder.__
+* Install [ADB Drivers](http://nimbleinity.com/4XNF) on your PC.
+* Install [Minimal ADB & Fastboot 1.4.3](http://nimbleinity.com/4Xa7) again on your PC.
+* Go to this [Cloud Drive](http://nimbleinity.com/4XdI) and select the directory with your existing build version, download only __boot.img__ and __recovery.img__ from it and place these two files in __adb folder__ (This folder will be generated after adb & fastboot installation.)
+* Download [TWRP Recovery](http://nimbleinity.com/4XiA) for ASUS ZenFone 2 Laser (Code Name: Z00L) and copy this too in __adb folder.__
 
 <h4>Have The Firmware Update (Stock ROM) Downloaded, if not follow these steps:</h4>
 
@@ -169,7 +169,7 @@ I hope you have successfully installed the new update __UL-Z00L-WW-21.40.1220.21
 
 <h3>Useful Links:</h3>
 
-* Also Stock ROMs available for Zenfone Selfie [here.](https://mega.nz/#F!Ao1RjT7D!hQ5x60r02WveB9-Hl32B4g)
+* Also Stock ROMs available for Zenfone Selfie [here.](http://nimbleinity.com/4XkH)
 * Read more about TRWP, an awesome open source community project [here.](https://twrp.me/about/)
 * Your ASUS Zenfone 2 Laser (ZE550KL) [device specification.](https://www.asus.com/in/Phone/ZenFone-2-Laser-ZE550KL/specifications/)
 
