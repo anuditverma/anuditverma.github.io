@@ -121,7 +121,7 @@ This method is intended to __solve /asdf related errors,__ we will use a custom 
 * On on cmd, type __adb devices__ and press enter, look for a pop on your device for allowing debugging authorisation for your PC, select __always__ and click __Yes.__
 * Type __adb reboot bootloader__ on the cmd, you will notice that your phone will get into __Fastboot Mode!!__
 * Now we will flash the TWRP recovery that will help us wipe asdf partition, type __fastboot devices__ to show the list of connected devices, currently, your phone should be visible with a serial number.
-* Type command __fastboot flash recovery twrp-3.1.1-0-Z00L.img__, allow it to FINISH, then disconnect your phone and remove the battery.
+* Type command __fastboot flash recovery twrp-3.2.1-0-Z00L.img__, allow it to FINISH, then disconnect your phone and remove the battery.
 * Now with the key combination, press __Volume Down__ and __Power Button__ together, you will be in TWRP recovery mode.
 
 <h4>Wiping ASDF Cache and Flashing Stock Recovery Over TWRP</h4>
