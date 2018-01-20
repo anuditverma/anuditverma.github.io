@@ -105,6 +105,9 @@ This method is intended to __solve /asdf related errors,__ we will use a custom 
 * Install [ADB Drivers](http://nimbleinity.com/4XNF) on your PC.
 * Install [Minimal ADB & Fastboot 1.4.3](http://nimbleinity.com/4Xa7) again on your PC.
 * Go to this [Cloud Drive](http://nimbleinity.com/4XdI) and select the directory with your existing build version, download only __boot.img__ and __recovery.img__ from it and place these two files in __adb folder__ (This folder will be generated after adb & fastboot installation.)
+
+__Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if you are unable to find the relevant files.
+
 * Download [TWRP Recovery](http://nimbleinity.com/4XiA) for ASUS ZenFone 2 Laser (Code Name: Z00L) and copy this too in __adb folder.__
 
 <h4>Have The Firmware Update (Stock ROM) Downloaded, if not follow these steps:</h4>
