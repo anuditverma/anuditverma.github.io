@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2179) & Fix /asdf /recovery Errors without ROOT
+title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2192) & Fix /asdf /recovery Errors without ROOT
 tags: [zenfone, laser, volte, 4G, andriod update, asdf recovery, ZE550KL, ADB, recovery, TWRP. without root]
 image: http://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 share-img: http://www.anudit.in/img/zenfone_volte/zenfone_preview.png
@@ -75,7 +75,7 @@ A Disclaimer: __You might brick your phone or it might be completely unusable, F
 <h4>Download the Firmware Update (Stock ROM):</h4>
 
 * You can download the update file directly on your __SD-card__ (observe __NOT internal storage__) or you can transfer the downloaded file from your PC as per convenience.
-* Make sure to place the downloaded file, i.e. __UL-Z00L-WW-21.40.1220.2179-user.zip__ on the uppermost directory of the SD-card (__NOT in any folder__).
+* Make sure to place the downloaded file, i.e. __UL-Z00L-WW-21.40.1220.2192-user.zip__ on the uppermost directory of the SD-card (__NOT in any folder__).
 * Go to [ASUS Zenfone 2 Laser Support site](https://www.asus.com/in/Phone/ZenFone-2-Laser-ZE550KL/HelpDesk_Download/) for downloading the Firmware update.
 * On __Driver & Tools__ tab, select OS: __Android__ and then under __Firmware__ download from the __Global__ link.
 
@@ -88,7 +88,7 @@ A Disclaimer: __You might brick your phone or it might be completely unusable, F
 <h4>Installing The Update:</h4> 
 
 * Go to __apply update from sdcard.__
-* Navigate to __UL-Z00L-WW-21.40.1220.2179-user.zip__ file, and press __Power Button__ to select the file.
+* Navigate to __UL-Z00L-WW-21.40.1220.2192-user.zip__ file, and press __Power Button__ to select the file.
 
 NOTE: __If you are still getting the /asdf /recovery errors, then follow Method 2, if not then continue.__
 
@@ -113,7 +113,7 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 <h4>Have The Firmware Update (Stock ROM) Downloaded, if not follow these steps:</h4>
 
 * You can download the update file directly on your __SD-card__ (observe __NOT internal storage__) or you can transfer the downloaded file from your PC as per convenience.
-* Make sure to place the downloaded file i.e. __UL-Z00L-WW-21.40.1220.2179-user.zip__ on the uppermost directory of the sd-card (__NOT in any folder__).
+* Make sure to place the downloaded file i.e. __UL-Z00L-WW-21.40.1220.2192-user.zip__ on the uppermost directory of the sd-card (__NOT in any folder__).
 * Go to [ASUS Zenfone 2 Laser Support site](https://www.asus.com/in/Phone/ZenFone-2-Laser-ZE550KL/HelpDesk_Download/) for downloading the update.
 * On __Driver & Tools__ tab, select OS: __Android__ and then under __Firmware__ download from the __Global__ link.
 
@@ -156,7 +156,7 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 
 * Now again disconnect your phone, remove the battery and now boot into stock recovery that we have just installed, (__Volume Down + Power Button__).
 * Go to __apply update from sdcard.__
-* Navigate to __UL-Z00L-WW-21.40.1220.2179-user.zip__ file, and press __Power Button__ to select the file.
+* Navigate to __UL-Z00L-WW-21.40.1220.2192-user.zip__ file, and press __Power Button__ to select the file.
 * Wait for the process to complete, it may take around 15-20 minutes to complete, have patience.
 * You should be able to get the success message after the system has been patched unconditionally process, then __wipe the data/factory__ and __cache partition__ again to ensure complete cleanup.
 
@@ -168,7 +168,7 @@ Then select __reboot system now,__ wait for the boot process to complete, it may
 
 NOTE: __Test your phone with a 4G enabled network (SIM) to test VoLTE capabilities (for example I used Jio SIM to test VoLTE) and make sure VoLTE option is enabled in Network Settings. This will also help you see a small VoLTE icon in the status area.__
 
-I hope you have successfully installed the new update __UL-Z00L-WW-21.40.1220.2179-user.zip__ on your __ASUS Zenfone 2 Laser (ZE550KL)__ device, if not comment below your queries or questions, I will be glad to help you.
+I hope you have successfully installed the new update __UL-Z00L-WW-21.40.1220.2192-user.zip__ on your __ASUS Zenfone 2 Laser (ZE550KL)__ device, if not comment below your queries or questions, I will be glad to help you.
 
 <h3>Useful Links:</h3>
 
