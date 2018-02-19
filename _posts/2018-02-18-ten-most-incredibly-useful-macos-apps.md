@@ -20,7 +20,7 @@ The list is in no particular order, they all are equally great in their relative
 
 One phrase: Picture in Picture (PIP), if you are aware of this then you would certainly know about this App before getting to the end of this statement, if are you not then don't worry, so this App provides a floating window on your Mac screen on which you can play your favourite video from the Internet, using a link or you can play video file content while simultaneously working on other Apps. It is developed by Jaden Geller, it was featured on Product Hunt and Business Insider!
 
-__App Store Link:__ [itunes.apple.com/us/app/helium/id1054607607](https://itunes.apple.com/us/app/helium/id1054607607)
+__App Store__ [Link](https://itunes.apple.com/us/app/helium/id1054607607)
 
 __Project Link:__ [HeliumFloats.com](http://heliumfloats.com/)
 
@@ -39,7 +39,7 @@ __Project Link:__ [Enjoygineering.com/mounty](http://enjoygineering.com/mounty/)
 
 "DeskCover hides your desktop icons behind a beautiful cover and automatically highlights the active application’s window while hiding everything else." YES! That's what the developer says, isn't it cool?
 
-__App Store Link:__ [itunes.apple.com/us/app/deskcover/id1257711898](https://itunes.apple.com/us/app/deskcover/id1257711898)
+__App Store__ [Link](https://itunes.apple.com/us/app/deskcover/id1257711898)
 
 __Project Link:__ [NoteifyApp.com/deskcover](http://www.noteifyapp.com/deskcover/)
 
@@ -50,7 +50,7 @@ __Project Link:__ [NoteifyApp.com/deskcover](http://www.noteifyapp.com/deskcover
 
 A simple and minimalistic countdown timer that smoothly integrates into your macOS status bar, you can name your activities and save them, they will be simply ready to be invoked with simple start/stop buttons present into a small icon on the status bar.
 
-__App Store Link:__ [itunes.apple.com/us/app/activity-timer/id808647808](https://itunes.apple.com/us/app/activity-timer/id808647808)
+__App Store__ [Link](https://itunes.apple.com/us/app/activity-timer/id808647808)
 
 
 <h3>5. Battery Health 2</h3>
@@ -59,7 +59,7 @@ __App Store Link:__ [itunes.apple.com/us/app/activity-timer/id808647808](https:/
 
 A relatively better battery monitoring tool for MacBooks, it displays all the statistics and health status regarding the battery. It also tells you about other important features such as current charge level, battery capacity, time remaining, power usage, number of times it has been charged and much more.
 
-__App Store Link:__ [itunes.apple.com/us/app/battery-health-2-monitor-battery/id1120214373](https://itunes.apple.com/us/app/battery-health-2-monitor-battery/id1120214373)
+__App Store__ [Link](https://itunes.apple.com/us/app/battery-health-2-monitor-battery/id1120214373)
 
 __Project Link:__ [FipLab.com/apps/battery-health-for-mac](https://fiplab.com/apps/battery-health-for-mac)
 
@@ -70,7 +70,7 @@ __Project Link:__ [FipLab.com/apps/battery-health-for-mac](https://fiplab.com/ap
 
 This app measures the data rate of your current network, nothing complex configuration is required and it also keeps a track of other networks too that you might use in between, tracks your Wi-Fi hotspot usage as well.
 
-__App Store Link:__ [itunes.apple.com/us/app/bandwidth/id490461369](https://itunes.apple.com/us/app/bandwidth/id490461369)
+__App Store__ [Link](https://itunes.apple.com/us/app/bandwidth/id490461369)
 
 
 <h3>7. The Unarchiver</h3>
@@ -79,7 +79,7 @@ __App Store Link:__ [itunes.apple.com/us/app/bandwidth/id490461369](https://itun
 
 They say it is the only app you need to open RAR on Mac. It is more powerful than the native macOS utility and supports infinitely more archive formats.
 
-__App Store Link:__ [itunes.apple.com/us/app/the-unarchiver/id425424353](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
+__App Store__ [Link](https://itunes.apple.com/us/app/the-unarchiver/id425424353)
 
 __Project Link:__ [TheUnarchiver.com](https://theunarchiver.com/)
 
@@ -91,7 +91,7 @@ __Project Link:__ [TheUnarchiver.com](https://theunarchiver.com/)
 
 Amphetamine (also name of a synthetic drug stimulant that helps people stay awake, so you see why this name and by now you might have figured out its usage) is a tiny app to keep your Mac awake and help override some energy saver settings if you don't need them for some particular task.
 
-__App Store Link:__ [itunes.apple.com/app/amphetamine/id937984704](https://itunes.apple.com/app/amphetamine/id937984704)
+__App Store__ [Link](https://itunes.apple.com/app/amphetamine/id937984704)
 
 __Project Link:__ [GitHub.com/x74353/Amphetamine](https://github.com/x74353/Amphetamine)
 
