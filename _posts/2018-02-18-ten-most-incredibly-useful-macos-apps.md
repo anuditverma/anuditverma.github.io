@@ -96,13 +96,13 @@ __App Store__ [Link](https://itunes.apple.com/app/amphetamine/id937984704)
 __Project Link:__ [GitHub.com/x74353/Amphetamine](https://github.com/x74353/Amphetamine)
 
 
-<h3>9. 4K Video Downloader</h3>
+<h3>9. Tab Notes Lite</h3>
 
-<img src="/img/macos_apps/4k_downloader.jpg" height="120" width="120" align="right">
+<img src="/img/macos_apps/tabsnotes.jpg" height="120" width="120" align="right">
 
-A _YouTube_ video downloader for downloading them in High quality such as 1080p, 4K and 8K, if available. Also, it can extract audio from videos.
+A simple note-taking app with lots of functionality and features, very handy and useful for keeping a reminder of your personal things or task.
 
-__Project Link:__ [4Kdownload.com/products/product-videodownloader](https://www.4kdownload.com/products/product-videodownloader)
+__App Store__ [Link](https://itunes.apple.com/us/app/tab-notes-lite/id410479438)
 
 
 <h3>10. ImageOptim</h3>
