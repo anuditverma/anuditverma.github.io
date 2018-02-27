@@ -221,3 +221,4 @@ metadata:
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
