@@ -80,9 +80,8 @@ This will check the C: drive for errors, and automatically recover the readable 
 
 I hope this will solve your problem, __"This location could not be displayed" and input/output error__ on Ubuntu, if not then comment below for further discussions.
 
-<h3>Useful Links:</h3>
+<h3>Useful Link(s):</h3>
 
 * A complete guide on chkdsk can be found [here.](https://neosmart.net/wiki/chkdsk/)
-* Read more about chkdsk from Microsoft, from their official [source.](https://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/chkdsk.mspx?mfr=true)
 
 Thank you for reading.
