@@ -125,7 +125,7 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 * Type __adb reboot bootloader__ on the cmd, you will notice that your phone will get into __Fastboot Mode!!__
 * Now we will flash the TWRP recovery that will help us wipe asdf partition, type __fastboot devices__ to show the list of connected devices, currently, your phone should be visible with a serial number.
 * Type command __fastboot flash recovery twrp-3.2.1-0-Z00L.img__, allow it to FINISH, then disconnect your phone and remove the battery.
-* Now install the battery again, after that with the key combination, press __Volume Down__ and __Power Button__ together, you will be in TWRP recovery mode.
+* Now install the battery again, after that with the key combination, press __Volume Down__ and __Power Button__ together, hold these keys for 3 seconds and release, you will be in TWRP recovery mode.
 
 <h4>Wiping ASDF Cache and Flashing Stock Recovery Over TWRP</h4>
 
