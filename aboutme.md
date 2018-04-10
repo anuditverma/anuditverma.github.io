@@ -38,17 +38,9 @@ Let’s connect if you want to collab and create something awesome in the world 
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
-<div class="ads">
-<div class="typed-js-hide">
-<script type="text/javascript">
-  ( function() {
-    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":728,"height":90,"sid":"Chitika Default"};
-    var placement_id = window.CHITIKA.units.length;
-    window.CHITIKA.units.push(unit);
-    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
-}());
-</script>
-<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
-</div>
-</div>
+
+Oh, and one more thing, if you are wondering about the meaning of my name, well here it is:
+<br>
+<center><img src="/img/anudit-meaning.png"></center>
+<br>
+<center><h3>Yes! It's literally translated, interesting, right? </h3><center>
