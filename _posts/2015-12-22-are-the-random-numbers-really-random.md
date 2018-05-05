@@ -35,3 +35,10 @@ Probably the next time you would wonder that 'Random' is just not a word defined
 
 
 Thank you for reading.
+
+And one more thing, here is an amazing fact about __Breaking Bad__:
+
+
+<center><img src="/img/BBfact.png"><br>
+
+<h3>MIND = *BLOWN*</h3></center><br>
