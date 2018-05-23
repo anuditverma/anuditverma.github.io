@@ -40,7 +40,7 @@ Let’s connect if you want to collab and create something awesome in the world 
 <br>
 
 Oh, and one more thing, if you are wondering about the meaning of my name, well here it is:
-<br>
+<br><br>
 <center><img src="/img/anudit-meaning.png"></center>
 <br>
 <center><h3>Yes! It's literally translated, interesting, right? </h3><center>
