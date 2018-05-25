@@ -1,0 +1,171 @@
+.view {
+     -webkit-transition: -webkit-transform 0.4s ease-in-out;
+     transition: transform 0.4s ease-in-out;
+}
+ .my__suggestion {
+     -webkit-font-smoothing: antialiased;
+}
+/* product grid */
+ .grid {
+     margin: 0 auto;
+     padding: 4em 1em;
+     max-width: 1200px;
+     text-align: center;
+     overflow: hidden;
+     -webkit-touch-callout: none;
+     -webkit-user-select: none;
+     -khtml-user-select: none;
+     -moz-user-select: none;
+     -ms-user-select: none;
+     user-select: none;
+}
+/* if flexbox is supported, let's use it to lay out the products */
+ .flexbox .grid {
+     display: -ms-flexbox;
+     display: -webkit-flex;
+     display: flex;
+     -webkit-flex-direction: row;
+     -ms-flex-direction: row;
+     flex-direction: row;
+     -webkit-flex-wrap: wrap;
+     -ms-flex-wrap: wrap;
+     flex-wrap: wrap;
+     -webkit-justify-content: center;
+     -ms-flex-pack: center;
+     justify-content: center;
+     -webkit-align-content: stretch;
+     -ms-flex-line-pack: stretch;
+     align-content: stretch;
+     -webkit-align-items: flex-start;
+     -ms-flex-align: start;
+     align-items: flex-start;
+}
+/* product */
+ .product {
+     position: relative;
+     display: inline-block;
+     vertical-align: top;
+     min-width: 16em;
+     margin: 0 1em 2.5em;
+     padding: 1.5em 1.5em 2em;
+     background: #24252A;
+     border-radius: 5px;
+}
+ .product--selected {
+     box-shadow: 0 0 0 2px #5C5EDC;
+}
+ .flexbox .product {
+     display: block;
+     -webkit-flex: 0 0 16em;
+     -ms-flex: 0 0 16em;
+     flex: 0 0 16em;
+}
+/* product info */
+ .product__info > span {
+     display: block;
+     padding: 1em 0;
+}
+ .grid .extra {
+     display: none;
+}
+ .product__image {
+     display: block;
+     margin: 0 auto;
+     max-width: 100%;
+     -webkit-transform-origin: 50% 100%;
+     transform-origin: 50% 100%;
+}
+ .product:hover .product__image {
+     -webkit-animation: swing 0.6s forwards;
+     animation: swing 0.6s forwards;
+}
+/* https://daneden.github.io/animate.css/ */
+ @-webkit-keyframes swing {
+     25% {
+         -webkit-transform: rotate3d(0, 0, 1, 6deg);
+         transform: rotate3d(0, 0, 1, 6deg);
+    }
+     50% {
+         -webkit-transform: rotate3d(0, 0, 1, -4deg);
+         transform: rotate3d(0, 0, 1, -4deg);
+    }
+     75% {
+         -webkit-transform: rotate3d(0, 0, 1, 2deg);
+         transform: rotate3d(0, 0, 1, 2deg);
+    }
+     100% {
+         -webkit-transform: rotate3d(0, 0, 1, 0deg);
+         transform: rotate3d(0, 0, 1, 0deg);
+    }
+}
+ @keyframes swing {
+     25% {
+         -webkit-transform: rotate3d(0, 0, 1, 6deg);
+         transform: rotate3d(0, 0, 1, 6deg);
+    }
+     50% {
+         -webkit-transform: rotate3d(0, 0, 1, -4deg);
+         transform: rotate3d(0, 0, 1, -4deg);
+    }
+     75% {
+         -webkit-transform: rotate3d(0, 0, 1, 2deg);
+         transform: rotate3d(0, 0, 1, 2deg);
+    }
+     100% {
+         -webkit-transform: rotate3d(0, 0, 1, 0deg);
+         transform: rotate3d(0, 0, 1, 0deg);
+    }
+}
+ .product__title {
+     font-family: 'Lato', Calibri, Arial, sans-serif;
+     -webkit-font-smoothing: antialiased;
+     font-size: 150%;
+     margin: 1em 0 0;
+     min-height: 3em;
+}
+ .product__author {
+     font-family: 'Lato', Calibri, Arial, sans-serif;
+     -webkit-font-smoothing: antialiased;
+     font-weight: bold;
+     color: #797BED;
+}
+ .action {
+     display: inline-block;
+     font-size: 1em;
+     white-space: nowrap;
+     padding: 0.85em 1.25em;
+     cursor: pointer;
+     border: none;
+     background: transparent;
+     text-align: center;
+}
+ .action:focus {
+     outline: none;
+}
+ .action--button {
+     background: #2C2D34;
+     color: #fff;
+     border-radius: 2px;
+     -webkit-transition: background 0.2s;
+     transition: background 0.2s;
+}
+ .action--button:hover {
+     background: #5C5EDC;
+}
+ .action__text {
+     font-family: 'Raleway', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+     font-weight: bold;
+     letter-spacing: 1px;
+     font-size: .813em;
+     vertical-align: middle;
+     display: inline-block;
+}
+ .action__text--invisible {
+     position: absolute;
+     top: 100%;
+     opacity: 0;
+     pointer-events: none;
+}
+ .action--button i + span {
+     margin-left: 1em;
+}
