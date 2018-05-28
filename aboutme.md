@@ -9,22 +9,22 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer hailing from New Delhi, India.
+  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor, and developer hailing from New Delhi, India.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in <strong>Computer Science & Engineering (CSE) </strong>from University School of Information, Communication and Technology (<a target="_blank" href="http://www.ipu.ac.in/usict/">USICT</a>) in New Delhi, India.
+I obtained my Bachelor of Technology degree in <strong>Computer Science & Engineering (CSE) </strong>from University School of Information, Communication, and Technology (<a target="_blank" href="http://www.ipu.ac.in/usict/">USICT</a>) in New Delhi, India.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a programmer, software developer and a hackathon enthusiast.
+I am a programmer, software developer, and a seasoned ethical hacker, participating in various global hackathons.
 </p>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am a gamer, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music. Loves to meet new people, connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests and gaming meet-ups.
+Also, I am a gamer, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music. Loves to meet new people, connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests, and gaming meet-ups.
 </p>
 
 <p class="about-text">
