@@ -48,7 +48,7 @@ Now let's get to the solution, follow these steps:
 2. Right-click __Command prompt__, and then click __Run as administrator__.
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };

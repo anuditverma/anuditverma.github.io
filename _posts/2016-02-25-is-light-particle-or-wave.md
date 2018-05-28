@@ -32,7 +32,7 @@ Let Dr. Quantum himself explain Young's idea which was implemented in this exper
 
 <br>
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
@@ -72,7 +72,7 @@ Note: Disable ad blocker if you see a Math Processing Error.
 This debate has raged for generations amongst the giants of the physics community regarding the nature of light, namely whether it is a particle or an electromagnetic wave. For centuries, this mysterious and elusive phenomenon left scientists baffled because, with each experiment conducted to define its nature, it seemed to change the way it behaved.
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };

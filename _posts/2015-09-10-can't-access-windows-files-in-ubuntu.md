@@ -72,7 +72,7 @@ __NOTE:__ Remember, doing such a permanent method could hamper some of your Wind
 
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
@@ -111,7 +111,7 @@ According to me this seems a more efficient way (less time consuming) to make th
 Choose any method depending on your needs, follow method 2, if you use Ubuntu more frequently (or your primary OS is Ubuntu) it's a permanent solution. Use method 1 or 3 which are temporary solutions if you use Windows equally. Try method 4 if you need to something in between permanent and temporary.
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };

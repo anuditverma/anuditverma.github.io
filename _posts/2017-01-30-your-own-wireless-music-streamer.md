@@ -105,7 +105,7 @@ The final binary is in ```/usr/local/bin/gmediarender``` (unless you changed the
 Connect your sound system/speakers to your Raspberry Pi through onboard 3.5 mm audio connector, a normal 3.5 mm to RCA Audio cable would be sufficient for this setup.
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };

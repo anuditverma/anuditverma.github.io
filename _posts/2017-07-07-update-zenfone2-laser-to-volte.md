@@ -25,7 +25,7 @@ A concise guide for getting VoLTE update on your Zenfone 2 Laser (ZE550KL) to un
 There is a notification on your Zenfone, "An update is available" or you have checked for latest OTA (Over-The-Air) update manually. Then you downloaded the update file, the phone asks you to restart in order to further continue with the installation of the update. The phone restarts itself and boots into stock recovery mode. BUT! You might end with:
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
@@ -138,7 +138,7 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 * Connect your phone to PC, again open cmd in the adb folder, now type __fastboot flash recovery recovery.img__ let it FINNISH, similary type __fastboot flash boot boot.img__ again let this FINNISH too.
 
 <div class="ads">
-<div class="typed-js-hide">
+<div class="mobile-js-hide">
 <script type="text/javascript">
   ( function() {
     if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
