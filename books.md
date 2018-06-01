@@ -85,10 +85,26 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Luck_Habit.png" alt="The Luck Habit: What the Luckiest People Think Know, and Do-- And How It Can Change Your Life" />
+					<img class="product__image" src="images/The_Luck_Habit.png" alt="The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life" />
 					<h3 class="product__title">The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life</h3>
 					<span class="product__author highlight">Douglas Miller</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+luck+habit+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Art_of_Conversation.png" alt="The Art of Conversation" />
+					<h3 class="product__title">The Art of Conversation</h3>
+					<span class="product__author highlight">Catherine Blyth</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+art+of+conversation+by+catherine+blyth+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Rules_of_Life.png" alt="The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life" />
+					<h3 class="product__title">The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life</h3>
+					<span class="product__author highlight">Richard Templar</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+rules+of+life+by+richard+templar+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>			
 		</section>
