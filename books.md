@@ -37,6 +37,14 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
+					<h3 class="product__title">The Subtle Art of Not Giving a F*ck</h3>
+					<span class="product__author highlight">Mark Manson</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/Harry_Potter_and_the_Cursed_Child.png" alt="Harry Potter and the Cursed Child" />
 					<h3 class="product__title">Harry Potter and the Cursed Child</h3>
 					<span class="product__author highlight">J. K. Rowling, Jack Thorne, & John Tiffany</span>
