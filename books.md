@@ -122,6 +122,14 @@ title: Anudit Verma - My Book Recommendations
 					<span class="product__author highlight">Jonathan Hancock</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Brilliant+Memory+Training+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Focus.png" alt="Focus: The Power of Targeted Thinking" />
+					<h3 class="product__title">Focus: The Power of Targeted Thinking</h3>
+					<span class="product__author highlight">Jurgen Wolff</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=focus+the+power+of+targeted+thinking+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
 			</div>			
 		</section>
 	</div>
