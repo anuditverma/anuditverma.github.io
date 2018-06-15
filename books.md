@@ -130,6 +130,14 @@ title: Anudit Verma - My Book Recommendations
 					<span class="product__author highlight">Jurgen Wolff</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=focus+the+power+of+targeted+thinking+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Creative_Thinking_Plan.png" alt="The Creative Thinking Plan" />
+					<h3 class="product__title">The Creative Thinking Plan</h3>
+					<span class="product__author highlight">Guy Claxton & Bill Lucas</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+creative+thinking+plan+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
 			</div>			
 		</section>
 	</div>
