@@ -53,12 +53,12 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
-					<h3 class="product__title">Quirkology: The Curious Science of Everyday Lives</h3>
-					<span class="product__author highlight">Richard Wiseman</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Quirkology%3A+The+Curious+Science+of+Everyday+Lives+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<img class="product__image" src="images/Astrophysics_for_People_in_a_Hurry.png" alt="Astrophysics for People in a Hurry" />
+					<h3 class="product__title">Astrophysics for People in a Hurry</h3>
+					<span class="product__author highlight">Neil deGrasse Tyson</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=astrophysics+for+people+in+a+hurry+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
-			</div>			
+			</div>		
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Who_Moved_My_Cheese.png" alt="Who Moved My Cheese?" />
@@ -73,6 +73,14 @@ title: Anudit Verma - My Book Recommendations
 					<h3 class="product__title">Rich Dad Poor Dad</h3>
 					<span class="product__author highlight">Robert Kiyosaki & Sharon Lechter</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=rich+dad+poor+dad+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
+					<h3 class="product__title">Quirkology: The Curious Science of Everyday Lives</h3>
+					<span class="product__author highlight">Richard Wiseman</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Quirkology%3A+The+Curious+Science+of+Everyday+Lives+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
