@@ -69,6 +69,14 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/Rich_Dad_Poor_Dad.png" alt="Rich Dad Poor Dad" />
+					<h3 class="product__title">Rich Dad Poor Dad</h3>
+					<span class="product__author highlight">Robert Kiyosaki & Sharon Lechter</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=rich+dad+poor+dad+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/The_Secret_Lives_of_Numbers.png" alt="The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits" />
 					<h3 class="product__title">The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits</h3>
 					<span class="product__author highlight">Michael Millar</span>
