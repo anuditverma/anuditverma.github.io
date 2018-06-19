@@ -2,8 +2,8 @@
 layout: post
 title: 10 Most Incredibly Useful (& Essential) MacOS Apps!
 tags: [macOS, mac apps, apple, free mac apps, productivity]
-image: http://www.anudit.in/img/macos_apps/mac-os-apps.jpg
-share-img: http://www.anudit.in/img/macos_apps/mac-os-apps.jpg
+image: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
+share-img: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 ---
 
 Hi! Here is the list of __10 Incredibly Useful macOS Apps__ that you should probably use for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>

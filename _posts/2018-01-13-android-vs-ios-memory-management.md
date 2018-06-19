@@ -2,8 +2,8 @@
 layout: post
 title: "How is iOS different from Android, requires only a needful RAM in iPhones compared to Android phones?"
 tags: [andoird, ios, iphone, RAM, Dalvik, ART, Runtime, memory management]
-image: http://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
-share-img: http://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
+image: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
+share-img: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
 ---
 
 __Just for thought:__ If you have ever wondered why iPhones running iOS aren't much RAM extensive or doesn't require much RAM than most of the Android Flagship phones are using? Why spokespersons at *Apple Inc.* aren't boastful about the amount of RAM available to most modern iPhones while showcasing them?

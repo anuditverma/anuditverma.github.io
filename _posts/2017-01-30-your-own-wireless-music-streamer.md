@@ -2,8 +2,8 @@
 layout: post
 title: Make Your Own Wireless Music Streamer with Raspberry Pi
 tags: [DIY tutorial, music streamer, wireless music, raspberry pi project, audiophile]
-image: http://www.anudit.in/img/wifi_streamer/rPi.jpg
-share-img: http://www.anudit.in/img/wifi_streamer/rPi.jpg
+image: https://www.anudit.in/img/wifi_streamer/rPi.jpg
+share-img: https://www.anudit.in/img/wifi_streamer/rPi.jpg
 ---
 
 Yes! you read it right, make your own wireless music streamer but it's not a conventional Bluetooth based wireless player we have been using over A2DP to your Bluetooth enabled speakers, it's even better, __with the help of a Raspberry Pi you can make just any speakers with 3.5 mm audio connector be able to receive high-quality music from your Android, iPhone, Mac, Laptop or PC__ placed far away from your music system set up over your wireless network infrastructure (Wi-Fi network). Sounds cool, right?

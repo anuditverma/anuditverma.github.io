@@ -2,8 +2,8 @@
 layout: post
 title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2196) & Fix /asdf /recovery Errors without ROOT
 tags: [zenfone, laser, volte, 4G, andriod update, asdf recovery, ZE550KL, ADB, recovery, TWRP. without root]
-image: http://www.anudit.in/img/zenfone_volte/zenfone_preview.png
-share-img: http://www.anudit.in/img/zenfone_volte/zenfone_preview.png
+image: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
+share-img: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 ---
 
 A concise guide for getting VoLTE update on your Zenfone 2 Laser (ZE550KL) to unlock "True 4G" or "Rich Calling" (for Jio) or HD calling capabilities. The hardware of your Zenfone 2 phone is capable of hosting an LTE Cat4 network with the maximum download and upload speed of 100-150 Mbps, so why not use your device well and get the most out of it with a simple update?
