@@ -3,8 +3,8 @@ layout: post
 title: Are The Random Numbers Really Random?
 tags: [random-numbers, probability, mathematics, science]
 show-avatar: false
-image: https://www.anudit.in/img/math-universe.png
-share-img: https://www.anudit.in/img/math-universe.png
+image: https://www.anudit.in/img/math-universe.jpg
+share-img: https://www.anudit.in/img/math-universe.jpg
 ---
 
 __"What baffles me most in the world is the mystical nature of the Universe and its ever-increasing entropy, an infinite amount of information yet to be processed and deciphered, unravelling new ways for us to get a much better understanding of it."__ - Anudit Verma
