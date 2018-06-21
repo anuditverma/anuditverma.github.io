@@ -154,6 +154,14 @@ title: Anudit Verma - My Book Recommendations
 					<span class="product__author highlight">Guy Claxton & Bill Lucas</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+creative+thinking+plan+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Failure_of_Success.png" alt="Failure of Success: Redefining What Matters" />
+					<h3 class="product__title">Failure of Success: Redefining What Matters</h3>
+					<span class="product__author highlight">Jennifer Kavanagh</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Failure+of+Success%3A+Redefining+What+Matters+Jennifer+Kavanagh')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
 			</div>			
 		</section>
 	</div>
