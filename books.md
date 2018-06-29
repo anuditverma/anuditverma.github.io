@@ -93,22 +93,6 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Genius.png" alt="Genius!: Deceptively Simple Ways to Become Instantly Smarter" />
-					<h3 class="product__title">Genius!: Deceptively Simple Ways to Become Instantly Smarter</h3>
-					<span class="product__author highlight">Bannerman James</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Genius!%3A+Deceptively+Simple+Ways+to+Become+Instantly+Smarter+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Time_Travel_for_Beginners.png" alt="Time Travel for Beginners" />
-					<h3 class="product__title">Time Travel for Beginners</h3>
-					<span class="product__author highlight">Mary Gribbin & John Gribbin</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Time+Travel+for+Beginners+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
 					<img class="product__image" src="images/The_Luck_Habit.png" alt="The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life" />
 					<h3 class="product__title">The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life</h3>
 					<span class="product__author highlight">Douglas Miller</span>
@@ -133,14 +117,6 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Brilliant_Memory_Training.png" alt="Brilliant Memory Training" />
-					<h3 class="product__title">Brilliant Memory Training</h3>
-					<span class="product__author highlight">Jonathan Hancock</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Brilliant+Memory+Training+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
 					<img class="product__image" src="images/Focus.png" alt="Focus: The Power of Targeted Thinking" />
 					<h3 class="product__title">Focus: The Power of Targeted Thinking</h3>
 					<span class="product__author highlight">Jurgen Wolff</span>
@@ -149,18 +125,18 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/The_Creative_Thinking_Plan.png" alt="The Creative Thinking Plan" />
-					<h3 class="product__title">The Creative Thinking Plan</h3>
-					<span class="product__author highlight">Guy Claxton & Bill Lucas</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+creative+thinking+plan+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
 					<img class="product__image" src="images/Failure_of_Success.png" alt="Failure of Success: Redefining What Matters" />
 					<h3 class="product__title">Failure of Success: Redefining What Matters</h3>
 					<span class="product__author highlight">Jennifer Kavanagh</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Failure+of+Success%3A+Redefining+What+Matters+Jennifer+Kavanagh')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Simp.png" alt="Simplicity" />
+					<h3 class="product__title">Simplicity</h3>
+					<span class="product__author highlight">Edward de Bono</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=simplicity+edward+de+bono+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>			
 		</section>
