@@ -140,4 +140,7 @@ title: Anudit Verma - My Book Recommendations
 				</div>
 			</div>			
 		</section>
+		<center>
+			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/anuditverma"><img src="goodreads_logo.png" /></a></h3>
+		</center>
 	</div>
