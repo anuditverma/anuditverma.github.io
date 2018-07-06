@@ -39,7 +39,7 @@ Let’s connect if you want to collab and create something awesome in the world 
 </center>
 <br>
 
-Oh, and one more thing, if you are wondering about the meaning of my name, well here it is:
+Oh, and one more thing, if you are wondering about the meaning of my name, well...
 <br><br>
 <center><img src="/img/anudit-meaning.png"></center>
 <br>
