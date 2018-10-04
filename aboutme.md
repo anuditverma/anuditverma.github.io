@@ -24,7 +24,7 @@ I am a programmer, software developer, and a seasoned ethical hacker, participat
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music, occasional cooking, and enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a> (by the way, I am on a Reading Challenge this year, you can see the books I have read and my progress <a target="_blank" href="https://www.goodreads.com/user_challenges/12999125">here</a>). I am eager in meeting new people, to connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests, and gaming meet-ups.
+Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music, occasional cooking, and enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a> (by the way, I am on a Reading Challenge this year, you can see the books I have read and my progress <a target="_blank" href="https://www.goodreads.com/user_challenges/12999125">here</a>).
 </p>
 
 <p class="about-text">
