@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 10 Most Incredibly Useful (& Essential) MacOS Apps!
+title: 11 Most Incredibly Useful (& Essential) MacOS Apps!
 tags: [macOS, mac apps, apple, free mac apps, productivity]
 image: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 share-img: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 ---
 
-Hi! Here is the list of __10 Incredibly Useful macOS Apps__ that you should probably use for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>
+Hi! Here is the list of __11 Incredibly Useful macOS Apps__ that I have curated and you should probably use them for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>
 
 Whether you have a _MacBook Pro_ or _Air_ or an _iMac_, these work great for all, unless you have not been using macOS and have installed _Windows_ or any other OS (boot camped). However, only a few of them are available for _Windows_ and _Ubuntu_ as well.<br>
 
@@ -112,6 +112,14 @@ __App Store__ [Link](https://itunes.apple.com/us/app/tab-notes-lite/id410479438)
 ImageOptime removes bloated metadata which in turn saves disk space & bandwidth by compressing images without losing quality, ideal for uploading on your websites or social media platforms.
 
 __Project Link:__ [ImageOptim.com/mac](https://imageoptim.com/mac)<br><br>
+
+<h3>11. HandBrake</h3>
+
+<img src="/img/macos_apps/handbrake.jpg" height="120" width="120" align="right">
+
+HandBrake is a simple and one of the best video converter for macOS X, hands down! and it is open source-ed. "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs."
+
+__Project Link:__ [handbrake.fr](https://handbrake.fr/)<br><br>
 
 So did you like any of them? I am sure you will certainly like to use few of them regularly. In my opinion, some of them are really in great, they might help you in increasing your productivity.
 
