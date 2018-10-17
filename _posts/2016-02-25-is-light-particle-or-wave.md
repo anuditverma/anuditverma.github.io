@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Light: Particle or Wave?"
-tags: [science, experiment, nature of matter, wave, particle]
+tags: [science]
 ---
 
 <center><h2>Does light behave like particles or waves?</h2></center>
@@ -24,7 +24,7 @@ That video ignited a new spark of curiosity within me, seriously just think abou
 
 Alright, I think you must be eager to know about that video now and what it portrays, in short, it's about an experiment conducted by __Thomas Young__ in 1801 and is known as __Young's Double Slit Experiment__. This famous experiment is actually a simplification of a series of experiments on light conducted by Young. In a completely darkened room, Young allowed a thin beam of sunlight to pass through an aperture on his window and onto two narrow, closely spaced openings (the double slit). This sunlight then cast a shadow on the wall behind the apparatus. Young found that the light diffracted as it passed through the slits and then interfered with itself created a series of light and dark spots. Since the sunlight consists of all colours of the rainbow, these colours were also visible in the projected spots. Young concluded that light consists of waves and not particles since only waves were known to diffract and interfere in exactly the manner that light did in his experiment.
 
-Let Dr. Quantum himself explain Young's idea which was implemented in this experiment, watch this amazing video for an explanation with a twist at the end.
+Let Dr Quantum himself explain Young's idea which was implemented in this experiment, watch this amazing video for an explanation with a twist at the end.
 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DfPeprQ7oGc" allowfullscreen></iframe>

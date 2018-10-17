@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Is For Your Incredible Quest of Space Exploration And Beyond
-tags: [space, universe, galaxies, explorations, cosmos, the-milky-way]
+tags: [space, universe]
 ---
 __"The important thing is to not stop questioning. Curiosity has its own reason for existence. One cannot help but be in awe when he contemplates the mysteries of eternity, of life, of the marvellous structure of reality. It is enough if one tries merely to comprehend a little of this mystery each day."__ - Albert Einstein
 

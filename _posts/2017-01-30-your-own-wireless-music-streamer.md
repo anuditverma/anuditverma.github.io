@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Make Your Own Wireless Music Streamer with Raspberry Pi
-tags: [DIY tutorial, music streamer, wireless music, raspberry pi project, audiophile]
+tags: [DIY, music, raspberry pi]
 image: https://www.anudit.in/img/wifi_streamer/rPi.jpg
 share-img: https://www.anudit.in/img/wifi_streamer/rPi.jpg
 ---
@@ -135,7 +135,7 @@ Now you will need a UPnP™ controller/client to send some playable content to y
 Because yeah, fortunately, there is an inbuilt support for streaming UPnP™/DLNA content right from Windows Media Player, so kudos to Microsoft for this. Follow these steps for streaming your content.
 
 * Open Windows Media Player.
-* Select your favourite track, in the right side pane, there will be a 'Play To' icon on the Play Tab.
+* Select your favourite track, in the right side panel, there will be a 'Play To' icon on the Play Tab.
 * Select this option and wait for your local renderer to appear.
 
 <center>OR</center>

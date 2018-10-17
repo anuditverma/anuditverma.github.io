@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 11 Most Incredibly Useful (& Essential) MacOS Apps!
-tags: [macOS, mac apps, apple, free mac apps, productivity]
+tags: [macOS, productivity]
 image: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 share-img: https://www.anudit.in/img/macos_apps/mac-os-apps.jpg
 ---
 
 Hi! Here is the list of __11 Incredibly Useful macOS Apps__ that I have curated and you should probably use them for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>
 
-Whether you have a _MacBook Pro_ or _Air_ or an _iMac_, these work great for all, unless you have not been using macOS and have installed _Windows_ or any other OS (boot camped). However, only a few of them are available for _Windows_ and _Ubuntu_ as well.<br>
+Whether you have a _MacBook Pro_ or _Air_ or a _iMac_, these work great for all, unless you have not been using macOS and have installed _Windows_ or any other OS (boot camped). However, only a few of them are available for _Windows_ and _Ubuntu_ as well.<br>
 
 
 The list is in no particular order, they all are equally great in their relative terms of usage.
@@ -57,7 +57,7 @@ __App Store__ [Link](https://itunes.apple.com/us/app/activity-timer/id808647808)
 
 <img src="/img/macos_apps/batteryhealth2.jpg" height="59" width="120" align="right">
 
-A relatively better battery monitoring tool for MacBooks, it displays all the statistics and health status regarding the battery. It also tells you about other important features such as current charge level, battery capacity, time remaining, power usage, number of times it has been charged and much more.
+A relatively better battery monitoring tool for MacBooks, it displays all the statistics and health status regarding the battery. It also tells you about other important features such as the current charge level, battery capacity, time remaining, power usage, number of times it has been charged and much more.
 
 __App Store__ [Link](https://itunes.apple.com/us/app/battery-health-2-monitor-battery/id1120214373)
 

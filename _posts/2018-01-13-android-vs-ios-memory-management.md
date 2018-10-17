@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How is iOS different from Android, requires only a needful RAM in iPhones compared to Android phones?"
-tags: [andoird, ios, iphone, RAM, Dalvik, ART, Runtime, memory management]
+tags: [Android, iOS]
 image: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
 share-img: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
 ---
@@ -52,7 +52,7 @@ The garbage collected memory of Android and its heavy multi-tasking still consum
 <h3>So, What Have We Learnt?</h3>
 Remember task managers on Android? They pretty much aren't needed anymore as the OS does a fantastic job on its own. Task killing, in general, is probably worse for your phone now as it undoes a lot of the spin-up optimisation that is done on specific apps when they are sent to the background. iOS gained task killing for some unknown reason (probably iOS users demanding one be added because Android has one) - but both operating systems can do without this feature now. The feature is kept around because users would complain if these familiar features disappear. I expect in future OS versions the task-killers won't actually do anything and will become a placebo - or it will only reset the app's navigation stack, rather than kills the task entirely. 
 
-So, in fact, you don't need to remove those recent apps from recent activity tab. It is better to not swipe away apps. By swiping them away, you're undoing the memory and state optimisations that were applied to the app, so when you launch it the app needs to do a cold-boot and rebuild all that memory and reload all the stuff it previously had cached.
+So, in fact, you don't need to remove those recent apps from the recent activity tab. It is better to not swipe away apps. By swiping them away, you're undoing the memory and state optimisations that were applied to the app, so when you launch it the app needs to do a cold-boot and rebuild all that memory and reload all the stuff it previously had cached.
 
 That's more processor, RAM and flash usage (in some cases with rendering, more GPU usage) - that's more battery usage.
 

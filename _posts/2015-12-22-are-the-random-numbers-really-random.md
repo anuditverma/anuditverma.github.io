@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are The Random Numbers Really Random?
-tags: [random-numbers, probability, mathematics, science]
+tags: [probability, mathematics, science]
 show-avatar: false
 image: https://www.anudit.in/img/math-universe.jpg
 share-img: https://www.anudit.in/img/math-universe.jpg
@@ -18,9 +18,9 @@ Quick fact: __About 1% of your Television's static (white) noise of random dot p
 We need to widen our scope and get to the quantum level for this discussion, what could be the most non-deterministic and untraceable way to generate a truly random number? Answer to this might lies to the starting point when the Universe was created and in that process, we human beings and our world might be just an accidental creation, the location of earth, the favourable environmental conditions for sustaining life and moreover the randomness which lies within us, the different percentage of atomic composition of different elements, that made us unique from others. I think this seems to be a more convincing answer for a true randomness.
 
 
-![Mr. Walter White from Breaking Bad](/img/WHwhite.jpg "Mr. Walter White from Breaking Bad")
+![Mr. Walter White from Breaking Bad](/img/WHwhite.jpg " Mr Walter White from Breaking Bad")
 
-Good point Mr. White! Now let's bring chaos theory into this picture or we call it __The Butterfly Effect__, so why this name? Because now imagine this, the minor perturbations such as the flapping of the wings of a distant butterfly several weeks earlier can cause a hurricane. Woah ! Right ? Even though we are talking in a metaphorical sense but see a very small change in initial condition had created a significantly different outcome. The butterfly effect is exhibited by very simple systems. For example, the randomness of the outcomes of throwing dice depends on this characteristic to amplify small differences in initial conditions—the precise direction, thrust, and orientation of the throw—into significantly different dice paths and outcomes, which makes it virtually impossible to throw dice exactly the same way twice.
+Good point Mr White! Now let's bring chaos theory into this picture or we call it __The Butterfly Effect__, so why this name? Because now imagine this, the minor perturbations such as the flapping of the wings of a distant butterfly several weeks earlier can cause a hurricane. Woah! Right? Even though we are talking in a metaphorical sense but see a very small change in initial condition had created a significantly different outcome. The butterfly effect is exhibited by very simple systems. For example, the randomness of the outcomes of throwing dice depends on this characteristic to amplify small differences in initial conditions—the precise direction, thrust, and orientation of the throw—into significantly different dice paths and outcomes, which makes it virtually impossible to throw dice exactly the same way twice.
 
 The infinite Universe, entropy, randomness and chaos, let's put all these things into a perspective of Aristotle and his attempt to explain about infinity and possibility of an order in chaos, here comes __The Infinite Monkey Theorem__, watch the video for an explanation.
 

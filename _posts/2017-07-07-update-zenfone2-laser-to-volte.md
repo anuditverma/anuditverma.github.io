@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2196) & Fix /asdf /recovery Errors without ROOT
-tags: [zenfone, laser, volte, 4G, andriod update, asdf recovery, ZE550KL, ADB, recovery, TWRP. without root]
+tags: [zenfone, VoLTE, Android]
 image: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 share-img: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 ---
@@ -119,8 +119,8 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 
 <h4>Installing TWRP with ADB and Fastboot</h4>
 * First, enable Developer Mode, Go To __Setting>About>Software Information>Build Number__ (Click 7 times) then “You Are Developer Now” message will appear.
-* Now enable __USB Debugging__ in __Developer Mode__ from Setting and  connect your phone to PC via USB cable.
-* Now open __Command Prompt (cmd)__ in the adb folder by holding __Shift__ and __Right clicking__ simultaneously, you will see an  option __Open Command Prompt Here__.
+* Now enable __USB Debugging__ in __Developer Mode__ from Setting and connect your phone to PC via USB cable.
+* Now open __Command Prompt (cmd)__ in the adb folder by holding __Shift__ and __Right clicking__ simultaneously, you will see an option __Open Command Prompt Here__.
 * On on cmd, type __adb devices__ and press enter, look for a pop on your device for allowing debugging authorisation for your PC, select __always__ and click __Yes.__
 * Type __adb reboot bootloader__ on the cmd, you will notice that your phone will get into __Fastboot Mode!!__
 * Now we will flash the TWRP recovery that will help us wipe asdf partition, type __fastboot devices__ to show the list of connected devices, currently, your phone should be visible with a serial number.
@@ -160,7 +160,7 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 * Wait for the process to complete, it may take around 15-20 minutes to complete, have patience.
 * You should be able to get the success message after the system has been patched unconditionally process, then __wipe the data/factory__ and __cache partition__ again to ensure complete cleanup.
 
-Then select __reboot system now,__ wait for the boot process to complete, it may again take 15-20 minutes because for the first boot system optimises the apps and builds the cache. If you don't have patience, then ofcourse you can hard reboot, by long pressing the Power button and restarting the device. (NOT Recommended)
+Then select __reboot system now,__ wait for the boot process to complete, it may again take 15-20 minutes because for the first boot system optimises the apps and builds the cache. If you don't have patience, then of course you can hard reboot, by long pressing the Power button and restarting the device. (NOT Recommended)
 
 <center><h3>ASUS Zenfone 2 Laser (ZE550KL) after updating:</h3></center>
 

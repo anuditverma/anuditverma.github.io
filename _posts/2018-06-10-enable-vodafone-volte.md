@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to enable VoLTE on Vodafone?
-tags: [volte, vodafone,]
+tags: [VoLTE]
 image: https://www.anudit.in/img/vodafone_volte/vodafone_lte.jpg
 share-img: https://www.anudit.in/img/vodafone_volte/vodafone_lte.jpg
 ---
