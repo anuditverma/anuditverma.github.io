@@ -77,6 +77,30 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/The_Power_of_Habit.png" alt="The Power of Habit" />
+					<h3 class="product__title">The Power of Habit</h3>
+					<span class="product__author highlight">Charles Duhigg</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+power+of+habit+by+charles+duhigg+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Bounce.png" alt="Bounce" />
+					<h3 class="product__title">Bounce</h3>
+					<span class="product__author highlight">Matthew Syed</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=bounce+matthew+syed+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Shikhandi.png" alt="Shikhandi" />
+					<h3 class="product__title">Shikhandi and Other Stories They Don't Tell You</h3>
+					<span class="product__author highlight">Devdutt Pattanaik</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Shikhandi+and+Other+Stories+They+Don%27t+Tell+You+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
 					<h3 class="product__title">Quirkology: The Curious Science of Everyday Lives</h3>
 					<span class="product__author highlight">Richard Wiseman</span>
@@ -86,7 +110,7 @@ title: Anudit Verma - My Book Recommendations
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Secret_Lives_of_Numbers.png" alt="The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits" />
-					<h3 class="product__title">The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits</h3>
+					<h3 class="product__title">The Secret Lives of Numbers</h3>
 					<span class="product__author highlight">Michael Millar</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Secret+Lives+of+Numbers%3A+The+Curious+Truth+Behind+Everyday+Digits+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -94,7 +118,7 @@ title: Anudit Verma - My Book Recommendations
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Luck_Habit.png" alt="The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life" />
-					<h3 class="product__title">The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life</h3>
+					<h3 class="product__title">The Luck Habit</h3>
 					<span class="product__author highlight">Douglas Miller</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+luck+habit+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
@@ -110,7 +134,7 @@ title: Anudit Verma - My Book Recommendations
 			<div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/The_Rules_of_Life.png" alt="The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life" />
-					<h3 class="product__title">The Rules of Life: A Personal Code for Living a Better, Happier, More Successful Life</h3>
+					<h3 class="product__title">The Rules of Life</h3>
 					<span class="product__author highlight">Richard Templar</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+rules+of+life+by+richard+templar+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
