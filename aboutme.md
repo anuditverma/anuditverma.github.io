@@ -23,8 +23,13 @@ I am a programmer, software developer, and a seasoned ethical hacker, participat
 </p>
 
 <p class="about-text">
+<span class="fa fa-book about-icon"></span>
+I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user_challenges/12999125">here</a>. Make sure to add some of them in your 2019 reading list.
+</p>
+
+<p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music, occasional cooking, and enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a> (by the way, I am on a Reading Challenge this year, you can see the books I have read and my progress <a target="_blank" href="https://www.goodreads.com/user_challenges/12999125">here</a>). I am eager in meeting new people, to connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests, and gaming meet-ups.
+Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music and occasional cooking. I am eager to meet new people, to connect, discuss, network and grow, mostly at software developers’ conferences, dev-fests, and gaming meet-ups.
 </p>
 
 <p class="about-text">
@@ -43,4 +48,4 @@ Oh, and one more thing, if you are wondering about the meaning of my name, well.
 <br><br>
 <center><img src="/img/anudit-meaning.png"></center>
 <br>
-<center><h3>Yes! It's literally translated, interesting, right? </h3><center>
+<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
