@@ -101,34 +101,42 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/The_White_Tiger.png" alt="The White Tiger" />
+					<h3 class="product__title">The White Tiger</h3>
+					<span class="product__author highlight">Aravind Adiga</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+white+tiger+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Power_of_Your_Subconscious_Mind.png" alt="The Power of Your Subconscious Mind" />
+					<h3 class="product__title">The Power of Your Subconscious Mind</h3>
+					<span class="product__author highlight">Joseph Murphy</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=power+of+subconscious+mind+joseph+murphy+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/Hooked.png" alt="Hooked: How to Build Habit-Forming Products" />
+					<h3 class="product__title">Hooked: How to Build Habit-Forming Products</h3>
+					<span class="product__author highlight">Nir Eyal</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=hooked+nir+eyal+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_One_Thing.png" alt="The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results" />
+					<h3 class="product__title">The One Thing</h3>
+					<span class="product__author highlight">Gary W. Keller & Jay Papasan</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+One+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results&oq=The+one+Thing%3A+The+Surprisingly+Simple+Truth+Behind+Extraordinary+Results')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/Quirkology.png" alt="Quirkology: The Curious Science of Everyday Lives" />
 					<h3 class="product__title">Quirkology: The Curious Science of Everyday Lives</h3>
 					<span class="product__author highlight">Richard Wiseman</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Quirkology%3A+The+Curious+Science+of+Everyday+Lives+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Secret_Lives_of_Numbers.png" alt="The Secret Lives of Numbers: The Curious Truth Behind Everyday Digits" />
-					<h3 class="product__title">The Secret Lives of Numbers</h3>
-					<span class="product__author highlight">Michael Millar</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Secret+Lives+of+Numbers%3A+The+Curious+Truth+Behind+Everyday+Digits+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Luck_Habit.png" alt="The Luck Habit: What the Luckiest People Think Know, and Do And How It Can Change Your Life" />
-					<h3 class="product__title">The Luck Habit</h3>
-					<span class="product__author highlight">Douglas Miller</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+luck+habit+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/The_Art_of_Conversation.png" alt="The Art of Conversation" />
-					<h3 class="product__title">The Art of Conversation</h3>
-					<span class="product__author highlight">Catherine Blyth</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+art+of+conversation+by+catherine+blyth+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
@@ -141,26 +149,18 @@ title: Anudit Verma - My Book Recommendations
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Focus.png" alt="Focus: The Power of Targeted Thinking" />
-					<h3 class="product__title">Focus: The Power of Targeted Thinking</h3>
-					<span class="product__author highlight">Jurgen Wolff</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=focus+the+power+of+targeted+thinking+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Failure_of_Success.png" alt="Failure of Success: Redefining What Matters" />
-					<h3 class="product__title">Failure of Success: Redefining What Matters</h3>
-					<span class="product__author highlight">Jennifer Kavanagh</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Failure+of+Success%3A+Redefining+What+Matters+Jennifer+Kavanagh')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
 					<img class="product__image" src="images/Simp.png" alt="Simplicity" />
 					<h3 class="product__title">Simplicity</h3>
 					<span class="product__author highlight">Edward de Bono</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=simplicity+edward+de+bono+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
+					<img class="product__image" src="images/The_Goldilocks_Enigma.png" alt="The Goldilocks Enigma: Why is the Universe Just Right for Life?" />
+					<h3 class="product__title">The Goldilocks Enigma</h3>
+					<span class="product__author highlight">Paul Davies</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F&oq=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>			
 		</section>
