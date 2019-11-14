@@ -2,14 +2,14 @@
 layout: page
 title: About Anudit Verma
 meta-title: About me
-subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
+subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor, and developer living in Long Beach, California, US.
+  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor and developer living in Long Beach, California, US.
 </p>
 
 <p class="about-text">
@@ -19,7 +19,7 @@ I am currently pursuing a <strong>Master of Science in Computer Science</strong>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a programmer, software developer, and a seasoned ethical hacker, participating in various global hackathons.
+I am a programmer, software developer, and seasoned ethical hacker, participating in various global hackathons.
 </p>
 
 <p class="about-text">
@@ -34,7 +34,7 @@ Also, I am very fond of video games, I love to create digital art and play aroun
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+Let’s connect if you want to collab something awesome in the world of open-source tech. Follow the social media links given below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
 </p>
 
 
