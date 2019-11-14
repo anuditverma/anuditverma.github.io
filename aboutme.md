@@ -9,12 +9,12 @@ subtitle: "For a start, my favourite quote is, <br> Do what you love, love what 
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor, and developer hailing from New Delhi, India.
+  Hi again, my name is <strong>Anudit Verma</strong>, I am an avid open source enthusiast, contributor, and developer living in Long Beach, California, US.
 </p>
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my Bachelor of Technology degree in <strong>Computer Science & Engineering (CSE) </strong>from University School of Information, Communication, and Technology (<a target="_blank" href="http://www.ipu.ac.in/usict/">USICT</a>) in New Delhi, India.
+I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University, Long Beach (<a target="_blank" href="http://www.csulb.edu/">CSULB</a>).
 </p>
 
 <p class="about-text">
