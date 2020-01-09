@@ -24,7 +24,7 @@ I am a programmer, software developer, and seasoned ethical hacker, participatin
 
 <p class="about-text">
 <span class="fa fa-book about-icon"></span>
-I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/year_in_books/2018/82771249">here</a>. Make sure to add some of them in your 2019 reading list.
+I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>. In 2018, with an average of 1 book per week, I completed a Reading Challenge for reading 51 books. A list of those amazing books can be found <a target="_blank" href="https://www.goodreads.com/user/year_in_books/2018/82771249">here</a>. Make sure to add some of them in your future reading list.
 </p>
 
 <p class="about-text">
