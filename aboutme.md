@@ -29,7 +29,7 @@ I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music and occasional cooking. I am eager to meet new people, to connect, discuss, network and grow, mostly at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.
+Also, I am very fond of video games, I love to create digital art and play around with my Photoshop skills, apart from these I love listening to music and occasional cooking. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.
 </p>
 
 <p class="about-text">
