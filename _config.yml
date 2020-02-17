@@ -27,7 +27,6 @@ description: Let me introduce you to my geek side!
 # List of links in the navigation bar
 navbar-links:
   Books: "books"
-  About Me: "aboutme"
   Publications:
     - A framework of smart homes connected devices using Internet of Things: "http://ieeexplore.ieee.org/document/7918794/"
     - Google Scholar Profile: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
@@ -39,6 +38,7 @@ navbar-links:
     - Medical Ambience App: "https://github.com/anuditverma/MAA-Avaya-Hackathon"
     - TypeRacer: "https://github.com/anuditverma/appbase-typeracer"
     - video.js Overlay Hyperlink: "https://www.npmjs.com/package/videojs-overlay-hyperlink"
+  About Me: "aboutme"
   Resume: "resume/Anudit_Verma.pdf"
 #  Tags: "tags"
 
