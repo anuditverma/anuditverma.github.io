@@ -19,7 +19,7 @@ I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons.
+I am a software developer and a seasoned ethical hacker who loves to participate in various local & global hackathons. Also, I have been organizing and mentoring a few of them.
 </p>
 
 <p class="about-text">
