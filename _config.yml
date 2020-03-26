@@ -68,42 +68,29 @@ avatar: "/img/av.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Anudit Verma
-# email: "youremail@domain.com"
+
+# Select your active Social Network Links.
+# Uncomment the links you want to show in the footer and add your information to each link.
+# You can reorder the items to define the link order.
+# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+social-network-links:
+# rss: false
+# email: "someone@example.com"
   facebook: anuditverma
   github: anuditverma
   twitter: anuditverma
-  linkedin: anuditverma
-  stackoverflow: 4590331/anudit-verma
-  instagram: anuditverma
 # reddit: yourname
+  linkedin: anuditverma
 # xing: yourname
-# stackoverflow: yourlink  # eg. "3943160/daattali"
+# stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
-# youtube: yourlink   # eg. user/daattali or channel/daattali
+  instagram: anuditverma
+# youtube: user/yourname
 # spotify: yourname
+# telephone: +1-(000)-000-0000
 # steam: yourname
 # twitch: yourname
 # yelp: yourname
-
-# Select which links to show in the footer
-footer-links-active:
-  rss: false
-  facebook: true
-  email: false
-  twitter: true
-  github: true
-  linkedin: true
-  stackoverflow: false
-  instagram: true
-  reddit: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  youtube: false
-  spotify: false
-  steam: false
-  twitch: false
-  yelp: false
 
 # Select which share links to show in posts
 share-links-active:
