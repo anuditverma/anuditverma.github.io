@@ -103,16 +103,23 @@ share-links-active:
 # Remove this if you don't want a link in the footer
 url-pretty: "www.anudit.in"
 
-# --- Misc --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+# --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-84991519-1"
 
 # Google Tag Manager ID
 #gtm: ""
+
+# --- Comments --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "anuditverma"
+
+# To use Facebook Comments, fill in a Facebook App ID
+# fb_comment_id: ""
+
+# --- Misc --- #
 
 # Facebook App ID
 # fb_app_id: ""
