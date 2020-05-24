@@ -8,37 +8,8 @@ share-img: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
 
 A concise guide for getting VoLTE update on your Zenfone 2 Laser (ZE550KL) to unlock "True 4G" or "Rich Calling" (for Jio) or HD calling capabilities. The hardware of your Zenfone 2 phone is capable of hosting an LTE Cat4 network with the maximum download and upload speed of 100-150 Mbps, so why not use your device well and get the most out of it with a simple update?
 
-<div class="ads">
-<script type="text/javascript">
-  ( function() {
-    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":320,"height":50,"sid":"Chitika Default"};
-    var placement_id = window.CHITIKA.units.length;
-    window.CHITIKA.units.push(unit);
-    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
-}());
-</script>
-<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
-</div>
-
 <h3>The Current Scenario:</h3>
 There is a notification on your Zenfone, "An update is available" or you have checked for latest OTA (Over-The-Air) update manually. Then you downloaded the update file, the phone asks you to restart in order to further continue with the installation of the update. The phone restarts itself and boots into stock recovery mode. BUT! You might end with:
-
-<div class="ads">
-<div class="mobile-js-hide">
-<script type="text/javascript">
-  ( function() {
-    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":550,"height":250,"sid":"Chitika Default"};
-    var placement_id = window.CHITIKA.units.length;
-    window.CHITIKA.units.push(unit);
-    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
-}());
-</script>
-<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
-</div>
-</div>
-
 
 ```
 Supported API:3
@@ -136,21 +107,6 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 * Since we __cannot use TWRP for flashing the desired stock firmware,__ we will flash Stock Recovery on the phone.
 * Disconnect your phone from the PC, unplug the USB cable and remove the battery to turn the phone off, then install the battery again, now boot into the __Fastboot Mode!!__ , this time use __Volume Up__ and __Power Button__ together.
 * Connect your phone to PC, again open cmd in the adb folder, now type __fastboot flash recovery recovery.img__ let it FINNISH, similary type __fastboot flash boot boot.img__ again let this FINNISH too.
-
-<div class="ads">
-<div class="mobile-js-hide">
-<script type="text/javascript">
-  ( function() {
-    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-    var unit = {"calltype":"async[2]","publisher":"anuditverma","width":728,"height":90,"sid":"Chitika Default"};
-    var placement_id = window.CHITIKA.units.length;
-    window.CHITIKA.units.push(unit);
-    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
-}());
-</script>
-<script type="text/javascript" src="//cdn.chitika.net/getads.js" async></script>
-</div>
-</div>
 
 <h4>Apply Update From sdcard</h4>
 
