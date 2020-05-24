@@ -1,26 +1,25 @@
 # --- General options --- #
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://www.anudit.in/"
-baseurl: ""
-
-# If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
-
 # Name of website
 title: Anudit Verma
+
+# Short description of your site
+description: Let me introduce you to my geek side!
+
+# --- Local development options ---
+# If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
+# *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
+
+# url is the the website domain URL without a trailing slash
+url: "https://www.anudit.in/"
+
+# baseurl should be an empty string
+baseurl: ""
 
 #For my changes
 # use meta-title: for the center heading of the page.
 # use title: to set the <title> of the web page.
 # use subtitle: to set the sub heading for that title(meta-title). NOTE: if(meta-title exists){subtilel visiblity = true}
-
-# Short description of your site
-description: Let me introduce you to my geek side!
 
 # --- Navigation bar options --- #
 
