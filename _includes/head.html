@@ -18,7 +18,7 @@
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
   <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: { equationNumbers: { autoNumber: "AMS" } }});</script>
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | relative_url }}" />
 
   {% include gtm_head.html %}
   {% include google_analytics.html %}
@@ -31,7 +31,7 @@
 
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}" />
     {% endfor %}
   {% endif %}
 
@@ -49,7 +49,7 @@
 
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}" />
     {% endfor %}
   {% endif %}
 

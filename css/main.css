@@ -16,7 +16,7 @@ body {
   background: {{ site.page-col }};
   {% endif %}
   {% if site.page-img %}
-  background-image: url({{ site.page-img }});
+  background-image: url({{ site.page-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
 }
@@ -115,7 +115,7 @@ img {
   background: {{ site.navbar-col }};
   {% endif %}
   {% if site.navbar-img %}
-  background-image: url({{ site.navbar-img }});
+  background-image: url({{ site.navbar-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
 }
@@ -275,7 +275,7 @@ footer {
   background: {{ site.footer-col }};
   {% endif %}
   {% if site.footer-img %}
-  background-image: url({{ site.footer-img }});
+  background-image: url({{ site.footer-img | relative_url }});
   background-attachment: fixed;
   {% endif %}
 }
