@@ -6,6 +6,9 @@ title: Anudit Verma
 # Short description of your site
 description: Let me introduce you to my geek side!
 
+# Your name to show in the footer
+author: Anudit Verma
+
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
@@ -63,11 +66,6 @@ round-avatar: true
 # page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
-
-# Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: Anudit Verma
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.

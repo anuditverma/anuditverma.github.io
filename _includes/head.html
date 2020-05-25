@@ -5,7 +5,7 @@
   
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta name="author" content="{{ site.author.name }}" />
+  <meta name="author" content="{{ site.author }}" />
   <meta name="theme-color" content="#a50509">
   <meta name="description" content="Hi! I am Anudit Verma, a Computer Science engineer from USICT, New Delhi. I am currently pursuing MS in CS from California State University, Long Beach. I am a software developer, programmer, and a former GSoC student. I love to create digital art, listen to music and play video games. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.">
   <meta name="keywords" content="anudit, verma, geek, linux, science, math, mathematics, computer science, gsoc, google summer of code, raspberry pi, music, Internet of Things, research, android, hackathons, MS, California">
@@ -100,8 +100,8 @@
 
   <!-- Twitter summary cards -->
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@{{ site.author.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.author.twitter }}" />
+  <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}" />
+  <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}" />
 
   {% if page.meta-title %}
   <meta name="twitter:title" content="{{ page.meta-title }}" />
