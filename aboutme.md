@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Anudit Verma
-meta-title: About me
+only-about-me: About me
 subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
 ---
 
