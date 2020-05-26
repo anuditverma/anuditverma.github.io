@@ -67,12 +67,10 @@ round-avatar: true
 
 # --- Footer options --- #
 
-# Select your active Social Network Links.
-# Uncomment the links you want to show in the footer and add your information to each link.
-# You can reorder the items to define the link order.
-# If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
+# Select the social network links that you want to show in the footer.
+# Uncomment the links you want to show and add your information to each one.
+# If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-# rss: false
 # email: "someone@example.com"
   facebook: anuditverma
   github: anuditverma
@@ -83,6 +81,7 @@ social-network-links:
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
   instagram: anuditverma
+  rss: false
 # youtube: user/yourname
 # spotify: yourname
 # telephone: +1-(000)-000-0000
@@ -94,7 +93,6 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: true
   linkedin: true
 
 # How to display the link to the website in the footer
