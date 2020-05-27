@@ -49,7 +49,7 @@ Let Dr Quantum himself explain Young's idea which was implemented in this experi
 
 <h3>Mathematically, we can devise equations for the positions of these interference(s):</h3>
 
-![Double-slit experiment ](/img/YDSE.png "Double-slit experiment")
+![Double-slit experiment ](/assets/img/YDSE.png "Double-slit experiment")
 
 The positions of the bright and dark fringes
 are,<br>

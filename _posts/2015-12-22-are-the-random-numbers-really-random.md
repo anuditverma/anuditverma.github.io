@@ -3,8 +3,8 @@ layout: post
 title: Are The Random Numbers Really Random?
 tags: [probability, mathematics, science]
 show-avatar: false
-image: https://www.anudit.in/img/math-universe.jpg
-share-img: https://www.anudit.in/img/math-universe.jpg
+image: https://www.anudit.in/assets/img/math-universe.jpg
+share-img: https://www.anudit.in/assets/img/math-universe.jpg
 ---
 
 __"What baffles me most in the world is the mystical nature of the Universe and its ever-increasing entropy, an infinite amount of information yet to be processed and deciphered, unravelling new ways for us to get a much better understanding of it."__ - Anudit Verma
@@ -18,7 +18,7 @@ Quick fact: __About 1% of your Television's static (white) noise of random dot p
 We need to widen our scope and get to the quantum level for this discussion, what could be the most non-deterministic and untraceable way to generate a truly random number? Answer to this might lies to the starting point when the Universe was created and in that process, we human beings and our world might be just an accidental creation, the location of earth, the favourable environmental conditions for sustaining life and moreover the randomness which lies within us, the different percentage of atomic composition of different elements, that made us unique from others. I think this seems to be a more convincing answer for a true randomness.
 
 
-![Mr. Walter White from Breaking Bad](/img/WHwhite.jpg " Mr Walter White from Breaking Bad")
+![Mr. Walter White from Breaking Bad](/assets/img/WHwhite.jpg " Mr Walter White from Breaking Bad")
 
 Good point Mr White! Now let's bring chaos theory into this picture or we call it __The Butterfly Effect__, so why this name? Because now imagine this, the minor perturbations such as the flapping of the wings of a distant butterfly several weeks earlier can cause a hurricane. Woah! Right? Even though we are talking in a metaphorical sense but see a very small change in initial condition had created a significantly different outcome. The butterfly effect is exhibited by very simple systems. For example, the randomness of the outcomes of throwing dice depends on this characteristic to amplify small differences in initial conditions—the precise direction, thrust, and orientation of the throw—into significantly different dice paths and outcomes, which makes it virtually impossible to throw dice exactly the same way twice.
 
@@ -31,7 +31,7 @@ The infinite Universe, entropy, randomness and chaos, let's put all these things
 
 Probably the next time you would wonder that 'Random' is just not a word defined for uncertainty in nature but it's much beyond that, from the infinitesimal particles at the quantum level to the humongous objects in the Universe, and of course someday this might happen:
 
-![Reddit Post](/img/reddit-post.jpg "Reddit Post")
+![Reddit Post](/assets/img/reddit-post.jpg "Reddit Post")
 
 
 Thank you for reading.
@@ -39,6 +39,6 @@ Thank you for reading.
 And one more thing, here is an amazing fact about __Breaking Bad__:
 
 
-<center><img src="/img/BBfact.png"><br>
+<center><img src="/assets/img/BBfact.png"><br>
 
 <h3>MIND = *BLOWN*</h3></center><br>

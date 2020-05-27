@@ -2,12 +2,12 @@
 layout: post
 title: "Fix: This location could not be displayed Input/Output error in Ubuntu"
 tags: [Ubuntu, Linux, Windows, hack]
-share-img: https://www.anudit.in/img/io-error.jpg
+share-img: https://www.anudit.in/assets/img/io-error.jpg
 ---
 
 If you are having trouble accessing your Window's partition from inside Ubuntu because of an error which reads "This location could not be displayed" and input/output error, then follow this simple guide to recover from this error and solve it quickly to get back the access to your partition.
 
-<center><img src="/img/io-error.jpg"></center>
+<center><img src="/assets/img/io-error.jpg"></center>
 
 <center><h3>First of all, you need to know why this is happening?</h3></center>
 * If you are having a dual boot machine with Windows and Ubuntu and you are frequently switching between operating systems (that's not a problem at all) but you might not be shutting down Windows properly or there is a power cut while shutting down or you forced it to shut down, then your partition might get corrupted.

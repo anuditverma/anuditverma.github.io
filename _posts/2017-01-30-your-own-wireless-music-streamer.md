@@ -2,8 +2,8 @@
 layout: post
 title: Make Your Own Wireless Music Streamer with Raspberry Pi
 tags: [DIY, music, raspberry pi]
-image: https://www.anudit.in/img/wifi_streamer/rPi.jpg
-share-img: https://www.anudit.in/img/wifi_streamer/rPi.jpg
+image: https://www.anudit.in/assets/img/wifi_streamer/rPi.jpg
+share-img: https://www.anudit.in/assets/img/wifi_streamer/rPi.jpg
 ---
 
 Yes! you read it right, make your own wireless music streamer but it's not a conventional Bluetooth based wireless player we have been using over A2DP to your Bluetooth enabled speakers, it's even better, __with the help of a Raspberry Pi you can make just any speakers with 3.5 mm audio connector be able to receive high-quality music from your Android, iPhone, Mac, Laptop or PC__ placed far away from your music system set up over your wireless network infrastructure (Wi-Fi network). Sounds cool, right?
@@ -89,7 +89,7 @@ make
 ```
 
  Then it will be ready for renderering, as shown below. 
-![Raspbian Setup](/img/wifi_streamer/raspbian.jpg "Terminal on Raspbian")
+![Raspbian Setup](/assets/img/wifi_streamer/raspbian.jpg "Terminal on Raspbian")
 
 You can name your renderer anything you want, based on the location of the sound system (eg: Living Room, Hall etc) or you can name it after your speakers (I have named it Gravity Speakers).
 
@@ -126,7 +126,7 @@ Now you will need a UPnP™ controller/client to send some playable content to y
 * Look for a 'Local Renderer', your local renderer will appear under the local renderers' list, if you are unable to see it, check your phone if it is connected to the WiFi network or not, __your local renderer and your phone should be on the same network in order to communicate with each other.__
 * Select your Local Renderer, now go to Library and select your favourite track you want to play, you can also create a playlist and play all your tracks that are stored locally on your phone. (This is one of the advantages that BubbleUPnP offers over other Apps.)
 
-![BubbleUPnP](/img/wifi_streamer/bubble_upnp.jpg "BubbleUPnP App")
+![BubbleUPnP](/assets/img/wifi_streamer/bubble_upnp.jpg "BubbleUPnP App")
 
 
 
@@ -146,7 +146,7 @@ Because yeah, fortunately, there is an inbuilt support for streaming UPnP™/DLN
 
 Now you should be able to listen to your songs streamed over WiFi to your sound system setup. You can add your tracks in this small player Window and create your own digital mixtape.
 
-<center><img src="/img/wifi_streamer/win_playto.jpg"></center>
+<center><img src="/assets/img/wifi_streamer/win_playto.jpg"></center>
 
 I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. Special thanks to [Henner Zeller](https://github.com/hzeller) for making a resurrected version of the old [GMediaRender](http://gmrender.nongnu.org/) project and adding useful features. I will leave you with some useful links to make your music listening experience even more enjoyable.
 

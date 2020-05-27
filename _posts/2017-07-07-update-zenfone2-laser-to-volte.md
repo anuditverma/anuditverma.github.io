@@ -2,8 +2,8 @@
 layout: post
 title: Update your ZenFone 2 Laser (ZE550KL) to VoLTE (Version WW-21.40.1220.2196) & Fix /asdf /recovery Errors without ROOT
 tags: [zenfone, VoLTE, Android]
-image: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
-share-img: https://www.anudit.in/img/zenfone_volte/zenfone_preview.png
+image: https://www.anudit.in/assets/img/zenfone_volte/zenfone_preview.png
+share-img: https://www.anudit.in/assets/img/zenfone_volte/zenfone_preview.png
 ---
 
 A concise guide for getting VoLTE update on your Zenfone 2 Laser (ZE550KL) to unlock "True 4G" or "Rich Calling" (for Jio) or HD calling capabilities. The hardware of your Zenfone 2 phone is capable of hosting an LTE Cat4 network with the maximum download and upload speed of 100-150 Mbps, so why not use your device well and get the most out of it with a simple update?
@@ -26,7 +26,7 @@ E:Can't mount /asdf/recovery/last_log
 E:Can't open /asdf/recovery/last_log
 ```
 
-<center><img src="/img/zenfone_volte/errors.jpg" height="500" width="278"></center>
+<center><img src="/assets/img/zenfone_volte/errors.jpg" height="500" width="278"></center>
 
 Now you can see the system is unable to mount or open /asdf partition for formatting. This is the main reason which is causing those errors when you try to perform factory resets or flashing (writing updates to memory) OTA updates. This may have really pissed you off, so how to solve this? This may be one of the reasons you ended up on this page, so let's dive in and start with the process, shall we?
 
@@ -100,7 +100,7 @@ __Note:__ Use this alternate cloud drive [here](http://rapidtory.com/AtmY), if y
 
 <h4>Wiping ASDF Cache and Flashing Stock Recovery Over TWRP</h4>
 
-<center><img src="/img/zenfone_volte/twrp_menu.jpg" height="500" width="278"></center>
+<center><img src="/assets/img/zenfone_volte/twrp_menu.jpg" height="500" width="278"></center>
 
 * On TWRP recovery, navigate to __Wipe__, now select __Dalvik/ART cache, System, Data, Internal storage, Cache, ASDF.__
 * Swipe right to Wipe.
@@ -120,7 +120,7 @@ Then select __reboot system now,__ wait for the boot process to complete, it may
 
 <center><h3>ASUS Zenfone 2 Laser (ZE550KL) after updating:</h3></center>
 
-<center><img src="/img/zenfone_volte/zenfone_collage.jpg"></center>
+<center><img src="/assets/img/zenfone_volte/zenfone_collage.jpg"></center>
 
 NOTE: __Test your phone with a 4G enabled network (SIM) to test VoLTE capabilities (for example I used Jio SIM to test VoLTE) and make sure VoLTE option is enabled in Network Settings. This will also help you see a small VoLTE icon in the status area.__
 
@@ -135,4 +135,4 @@ I hope you have successfully installed the new update __UL-Z00L-WW-21.40.1220.21
 Thank you for reading.
 
 __PS__: I think you deserve some merriment after performing those exasperating steps, so here is a small joke for you. 
-<center><img src="/img/TWRP_joke.jpg" height="636" width="540"></center>
+<center><img src="/assets/img/TWRP_joke.jpg" height="636" width="540"></center>

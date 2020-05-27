@@ -20,7 +20,7 @@ The site went live on __August 6, 1991__, and was housed on Berners-Lees' NeXT c
 
 __This NeXT Computer below used by Tim Berners-Lee at CERN became the world's first web server.__
 
-![The World's First Web Server](/img/First_Web_Server.jpg "The World's First Web Server")
+![The World's First Web Server](/assets/img/First_Web_Server.jpg "The World's First Web Server")
 
 On 30 April 1993 CERN put the World Wide Web software in the public domain. CERN made the next release available with an open licence, as a more sure way to maximise its dissemination. Through these actions, making the software required to run a web server freely available, along with a basic browser and a library of code, the web was allowed to flourish.
 
@@ -30,7 +30,7 @@ CERN has preserved and restored machine names, IP addresses to their original st
 
 __Here is the image of the first webpage created, it was accessed through a line-mode browser.__
 
-![The World's First Webpage](/img/first_web.png "The World's First Webpage")
+![The World's First Webpage](/assets/img/first_web.png "The World's First Webpage")
 
 You can also access and get the feel of this webpage through this [line-mode browser simulator](http://line-mode.cern.ch/www/hypertext/WWW/TheProject.html) provided by CERN and here is the [html file](http://info.cern.ch/hypertext/WWW/TheProject.html), which you can access through your browser.
 

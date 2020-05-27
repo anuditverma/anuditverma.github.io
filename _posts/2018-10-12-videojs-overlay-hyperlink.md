@@ -9,7 +9,7 @@ A simple video.js plugin to display hyperlinks during video playback using overl
 
 ## Static Preview
 
-<center><img src="/img/videojs-hyperlink-screenshot.jpg"></center>
+<center><img src="/assets/img/videojs-hyperlink-screenshot.jpg"></center>
 
 ### Live Demo: [Link](https://rawgit.com/anuditverma/videojs-overlay-hyperlink/master/index.html)
 

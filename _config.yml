@@ -46,7 +46,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/av.jpg"
+avatar: "/assets/img/av.jpg"
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
@@ -59,11 +59,11 @@ round-avatar: true
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
 # navbar-col: "orange"
-# navbar-img: "/img/bgimage.png"
+# navbar-img: "/assets/img/bgimage.png"
 # footer-col: "blue"
-# footer-img: "/img/bgimage.png"
+# footer-img: "/assets/img/bgimage.png"
 # page-col: "#FF0000"
-# page-img: "/img/bgimage.png"
+# page-img: "/assets/img/bgimage.png"
 
 # --- Footer options --- #
 

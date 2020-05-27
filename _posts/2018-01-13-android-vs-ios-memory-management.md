@@ -2,8 +2,8 @@
 layout: post
 title: "How is iOS different from Android, requires only a needful RAM in iPhones compared to Android phones?"
 tags: [Android, iOS]
-image: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
-share-img: https://www.anudit.in/img/android_vs_ios/android-vs-ios.jpg
+image: https://www.anudit.in/assets/img/android_vs_ios/android-vs-ios.jpg
+share-img: https://www.anudit.in/assets/img/android_vs_ios/android-vs-ios.jpg
 ---
 
 __Just for thought:__ If you have ever wondered why iPhones running iOS aren't much RAM extensive or doesn't require much RAM than most of the Android Flagship phones are using? Why spokespersons at *Apple Inc.* aren't boastful about the amount of RAM available to most modern iPhones while showcasing them?
@@ -14,7 +14,7 @@ The reason is something fundamental and at the machine level, that means what ex
 
 <center><h2>iOS vs Android</h2></center>
 
-<center><img src="/img/android_vs_ios/apple-vs-android.png"></center>
+<center><img src="/assets/img/android_vs_ios/apple-vs-android.png"></center>
 
 
 <h3>Architecture:</h3>
@@ -57,6 +57,6 @@ So, in fact, you don't need to remove those recent apps from the recent activity
 That's more processor, RAM and flash usage (in some cases with rendering, more GPU usage) - that's more battery usage.
 
 There might be subtle differences among them, each stands better in their own unique way, you may love them both or not like them at all but in the end, it seems, well see the picture which is self-evident.
-<center><img src="/img/android_vs_ios/android-loves-ios.jpg"></center>
+<center><img src="/assets/img/android_vs_ios/android-loves-ios.jpg"></center>
 
 Thank you for reading.
