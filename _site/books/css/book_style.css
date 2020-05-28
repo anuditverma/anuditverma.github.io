@@ -1,0 +1,22 @@
+*, *:after, *:before {
+    box-sizing: border-box;
+}
+body, html {
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+/* Main styles */
+body {
+    color: #F5F5F5;
+    background: #2A2B30;
+    -moz-osx-font-smoothing: grayscale;
+}
+a {
+    text-decoration: none;
+    color: #f0f0f0;
+    outline: none;
+}
+a:hover {
+    color: #890000;
+}

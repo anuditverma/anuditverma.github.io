@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nimesh Babu Oli</title>
+    <description>Member at Nepal Council of World Affairs</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>My first blog in my website</title>
+        <description>
+          
+          Here I go This is my first blog that I am writing. In the background, I’m listening to the speech of Dr. Jordan Peterson, a Canadian Neuro-Psychologist. I am planning to write what I believe and my thoughts in the days to come. Writing is the one of the best...
+        </description>
+        <pubDate>Thu, 28 May 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-05-28-my-first-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-28-my-first-blog/</guid>
+      </item>
+    
+      <item>
+        <title>In the memory of Labor Day</title>
+        <description>
+          
+          Here I go
+
+We must celebrate Labor Day.
+
+
+
+        </description>
+        <pubDate>Fri, 01 May 2020 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/2020-05-01-labor-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020-05-01-labor-day/</guid>
+      </item>
+    
+  </channel>
+</rss>
