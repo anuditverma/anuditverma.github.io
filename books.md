@@ -13,6 +13,14 @@ title: Nimesh Babu Oli Recommendation
 		<section class="grid">
 			<div class="product">
 				<div class="product__info">
+					<img class="product__image" src="images/i_am_malala.jpg" alt="I am Malala" />
+					<h3 class="product__title">I am Malala</h3>
+					<span class="product__author highlight">Christina Lamb & Malala Yousafzai</span>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=I+am+Malala+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+				</div>
+			</div>
+			<div class="product">
+				<div class="product__info">
 					<img class="product__image" src="images/The_Alchemist.png" alt="The Alchemist" />
 					<h3 class="product__title">The Alchemist</h3>
 					<span class="product__author highlight">Paulo Coelho</span>
