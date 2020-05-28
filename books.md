@@ -21,37 +21,13 @@ title: Nimesh Babu Oli Recommendation
 			</div>
 			<div class="product">
 				<div class="product__info">
-					<img class="product__image" src="images/Now_That_You_are_Rich.png" alt="Now That You're Rich: Let's Fall in Love!" />
-					<h3 class="product__title">Now That You're Rich: Let's Fall in Love!</h3>
-					<span class="product__author highlight">Durjoy Datta & Maanvi Ahuja</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=now+that+you%27re+rich+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Zero_to_One.png" alt="Zero to One: Notes on Startups, or How to Build the Future" />
-					<h3 class="product__title">Zero to One: Notes on Startups, or How to Build the Future</h3>
-					<span class="product__author highlight">Peter Thiel & Blake Masters</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=zero+to+one+by+peter+thiel+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
-				<div class="product__info">
 					<img class="product__image" src="images/The_Subtle_Art_of_Not_Giving_a_Fck.png" alt="The Subtle Art of Not Giving a F*ck" />
 					<h3 class="product__title">The Subtle Art of Not Giving a F*ck</h3>
 					<span class="product__author highlight">Mark Manson</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Subtle+Art+of+Not+Giving+a+F*ck+book')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
-			<div class="product">
-				<div class="product__info">
-					<img class="product__image" src="images/Harry_Potter_and_the_Cursed_Child.png" alt="Harry Potter and the Cursed Child" />
-					<h3 class="product__title">Harry Potter and the Cursed Child</h3>
-					<span class="product__author highlight">J. K. Rowling, Jack Thorne, & John Tiffany</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=Harry+Potter+and+the+Cursed+Child+book+reviews')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
-				</div>
-			</div>
-			<div class="product">
+			<!-- <div class="product">
 				<div class="product__info">
 					<img class="product__image" src="images/Astrophysics_for_People_in_a_Hurry.png" alt="Astrophysics for People in a Hurry" />
 					<h3 class="product__title">Astrophysics for People in a Hurry</h3>
@@ -162,7 +138,7 @@ title: Nimesh Babu Oli Recommendation
 					<span class="product__author highlight">Paul Davies</span>
 					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F&oq=The+Goldilocks+Enigma%3A+Why+is+the+Universe+Just+Right+for+Life%3F')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
-			</div>			
+			</div>			 -->
 		</section>
 		<center>
 			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/nimeshbabuoli"><img src="goodreads_logo.png" /></a></h3>

@@ -4,7 +4,7 @@
 title: Nimesh Babu Oli
 
 # Short description of your site
-description: Member at Nepal Council of World Affairs
+description: Global Citizen from Nepal
 
 # Your name to show in the footer
 author: Nimesh Babu Oli
@@ -28,8 +28,7 @@ baseurl: ""
 
 # List of links in the navigation bar
 navbar-links:
-  Recommends: "books"
-  Research: "research"  
+  Research/Publication: "research"  
   Activities:
     - Travel: "travelling"
     - Model UN: "modelun"
@@ -37,6 +36,7 @@ navbar-links:
   Personal:
     - Opinions: "opinions"
     - Blogs: "blogs"
+    - Books: "books"
   About/Contact: "aboutme"
 #  Tags: "tags"
 
