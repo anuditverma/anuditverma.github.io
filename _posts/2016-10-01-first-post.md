@@ -2,7 +2,7 @@
 layout: page
 title: First post!
 tags: [random, exciting-stuff]
-bigimg:
+cover-img:
   - "/assets/img/anudit-verma.jpg"
 ---
 

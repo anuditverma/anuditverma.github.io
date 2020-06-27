@@ -2,13 +2,13 @@
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-{% if page.bigimg or page.title %}
+{% if page.cover-img or page.title %}
 
-{% if page.bigimg %}
-  <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
-    {% for bigimg in page.bigimg %}
+{% if page.cover-img %}
+  <div id="header-big-imgs" data-num-img={% if page.cover-img.first %}{{ page.cover-img.size }}{% else %}1{% endif %}
+    {% for cover-img in page.cover-img %}
 	    {% assign imgnum = forloop.index %}
-	    {% for imginfo in bigimg %}
+	    {% for imginfo in cover-img %}
 	      {% if imginfo[0] %}
 	      data-img-src-{{ imgnum }}="{{ imginfo[0] | relative_url }}"
 	      data-img-desc-{{ imgnum }}="{{ imginfo[1] }}"
@@ -20,12 +20,12 @@
   ></div>
 {% endif %}
 
-<header class="header-section {% if page.bigimg %}has-img{% endif %}">
-{% if page.bigimg %}
+<header class="header-section {% if page.cover-img %}has-img{% endif %}">
+{% if page.cover-img %}
 <div class="big-img intro-header">
-	<div class="container">
+	<div class="container-md">
     	<div class="row">
-      		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      		<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         		<div class="{{ include.type }}-heading">
                 <!-- Using page.meta-title instead of page.title to display "Hi, I'm Anudit" on the home page. -->
           			<h1>{% if page.meta-title %}{{ page.meta-title }}{% else %}<br/>{% endif %}</h1>
@@ -52,9 +52,9 @@
 </div>
 {% endif %}
 <div class="intro-header no-img">
-  	<div class="container">
+  	<div class="container-md">
     	<div class="row">
-      		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      		<div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
         		<div class="{{ include.type }}-heading">
         			<!-- A small script that takes care of visibility of "About me" (used to be meta-title but now serves as only-about-me on aboutme.md) on About me page. Displays "About me" instead of "About Anudit Verma" (title). -->
         			<script>
@@ -66,15 +66,14 @@
       					</script>
       				{% endif %}
   					<script>
-
-              // Using page.meta-title instead of page.title to display "Hi, I'm Anudit" on the home page.
-        				if (flag != 1) {
-        					document.writeln("<h1>{% if page.meta-title %}{{ page.meta-title }}{% else %}<br/>{% endif %}</h1>");
-        				}
-        				else if (flag == 1) {
-        					document.writeln("<h1>{% if page.only-about-me %}{{ page.only-about-me }}{% else %}<br/>{% endif %}</h1>");
-        				}
-      				</script>
+            // Using page.meta-title instead of page.title to display "Hi, I'm Anudit" on the home page.
+      				if (flag != 1) {
+      					document.writeln("<h1>{% if page.meta-title %}{{ page.meta-title }}{% else %}<br/>{% endif %}</h1>");
+      				}
+      				else if (flag == 1) {
+      					document.writeln("<h1>{% if page.only-about-me %}{{ page.only-about-me }}{% else %}<br/>{% endif %}</h1>");
+      				}
+      			</script>
 
             {% if page.subtitle %}
         		{% if include.type == "page" %}

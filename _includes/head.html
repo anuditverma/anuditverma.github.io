@@ -1,24 +1,23 @@
 <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
   <title>{% if page.use-site-title %}{{ site.title }} {{ site.title-separator }} {{ site.description }}{% elsif page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta name="author" content="{{ site.author }}" />
+  <meta name="author" content="{{ site.author }}">
   <meta name="theme-color" content="#a50509">
   <meta name="description" content="Hi! I am Anudit Verma, a Computer Science engineer from USICT, New Delhi. I am currently pursuing MS in CS from California State University, Long Beach. I am a software developer, programmer, and a former GSoC student. I love to create digital art, listen to music and play video games. I am eager to meet and connect with new people at hackathons, developers’ conferences, dev-fests, and gaming meet-ups.">
   <meta name="keywords" content="anudit, verma, geek, linux, science, math, mathematics, computer science, gsoc, google summer of code, raspberry pi, music, Internet of Things, research, android, hackathons, MS, California">
 
   <!-- favicon -->
-  <link rel="shortcut icon" type="image/png" href="/favicon.png" />
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
   <!-- MathJax -->
   <script type="text/x-mathjax-config">MathJax.Hub.Config({messageStyle: 'none',tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});</script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML" async></script>
   <script type="text/x-mathjax-config">MathJax.Hub.Config({TeX: { equationNumbers: { autoNumber: "AMS" } }});</script>
 
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ '/feed.xml' | absolute_url }}">
 
   {% include gtm_head.html %}
   {% include google_analytics.html %}
@@ -31,13 +30,13 @@
 
   {% if layout.common-css %}
     {% for css in layout.common-css %}
-      <link rel="stylesheet" href="{{ css | relative_url }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
   {% if layout.common-googlefonts %}
     {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}">
     {% endfor %}
   {% endif %}
 
@@ -49,27 +48,27 @@
 
   {% if page.css %}
     {% for css in page.css %}
-      <link rel="stylesheet" href="{{ css | relative_url }}" />
+      <link rel="stylesheet" href="{{ css | relative_url }}">
     {% endfor %}
   {% endif %}
 
   {% if page.googlefonts %}
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}">
     {% endfor %}
   {% endif %}
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
-  <meta property="fb:app_id" content="{{ site.fb_app_id }}" />
+  <meta property="fb:app_id" content="{{ site.fb_app_id }}">
   {% endif %}
 
   {% if page.meta-title %}
-  <meta property="og:title" content="{{ page.meta-title }}" />
+  <meta property="og:title" content="{{ page.meta-title }}">
   {% elsif page.title %}
-  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:title" content="{{ page.title }}">
   {% else %}
-  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ site.title }}">
   {% endif %}
 
    {% if page.meta-description %}
@@ -81,34 +80,34 @@
   {% endif %}
 
 
-  <meta property="og:type" content="website" />
+  <meta property="og:type" content="website">
 
   {% if page.id %}
-  <meta property="og:url" content="{{ page.url | absolute_url }}" />
-  <link rel="canonical" href="{{ page.url | absolute_url }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% else %}
-  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}" />
-  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}" />
+  <meta property="og:url" content="{{ page.url | absolute_url | strip_index }}">
+  <link rel="canonical" href="{{ page.url | absolute_url | strip_index }}">
   {% endif %}
 
   {% if page.share-img %}
-  <meta property="og:image" content="{{ page.share-img }}" />
+  <meta property="og:image" content="{{ page.share-img }}">
   {% elsif site.avatar %}
-  <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
+  <meta property="og:image" content="{{ site.avatar | absolute_url }}">
   {% endif %}
   
 
   <!-- Twitter summary cards -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}" />
-  <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}" />
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@{{ site.social-network-links.twitter }}">
+  <meta name="twitter:creator" content="@{{ site.social-network-links.twitter }}">
 
   {% if page.meta-title %}
-  <meta name="twitter:title" content="{{ page.meta-title }}" />
+  <meta name="twitter:title" content="{{ page.meta-title }}">
   {% elsif page.title %}
-  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:title" content="{{ page.title }}">
   {% else %}
-  <meta name="twitter:title" content="{{ site.title }}" />
+  <meta name="twitter:title" content="{{ site.title }}">
   {% endif %}
 
   {% if page.meta-description %}
@@ -120,9 +119,9 @@
   {% endif %}
 
   {% if page.share-img %}
-  <meta name="twitter:image" content="{{ page.share-img }}" />
+  <meta name="twitter:image" content="{{ page.share-img }}">
   {% elsif site.avatar %}
-  <meta name="twitter:image" content="{{ site.avatar | absolute_url }}" />
+  <meta name="twitter:image" content="{{ site.avatar | absolute_url }}">
   {% endif %}
 
 </head>
