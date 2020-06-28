@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-md navbar-light fixed-top navbar-custom {% if page.nav-short %}top-nav-short-permanent{% endif %}">
 
   {%- if site.title-img -%}
-    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img src="{{ site.title-img }}"/></a>
+    <a class="navbar-brand navbar-brand-logo" href="{{ '' | absolute_url }}"><img alt="{{ site.title }} Logo" src="{{ site.title-img }}"/></a>
   {%- elsif site.title -%}
     <a class="navbar-brand" href="{{ '' | absolute_url }}">{{ site.title }}</a>
   {%- endif -%}
@@ -37,7 +37,7 @@
   <div class="avatar-container">
     <div class="avatar-img-border">
       <a href="{{ '' | absolute_url }}">
-        <img class="avatar-img" src="{{ site.url }}/assets/img/av.jpg" />
+        <img alt="Anudit's Iron Man Mark IV Suit" class="avatar-img" src="{{ site.url }}/assets/img/av.jpg" />
      </a>
     </div>
   </div>
