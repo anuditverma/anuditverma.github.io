@@ -90,6 +90,7 @@ social-network-links:
 # yelp: yourname
 # telegram: yourname
 # calendly: yourname
+# mastodon: instance.url/@username
 
 # Select which share links to show in posts
 share-links-active:
