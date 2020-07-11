@@ -3,7 +3,7 @@ layout: post
 title: Are The Random Numbers Really Random?
 tags: [probability, mathematics, science]
 show-avatar: false
-thumbnail-img: https://www.anudit.in/assets/img/math-universe.jpg
+image: https://www.anudit.in/assets/img/math-universe.jpg
 share-img: https://www.anudit.in/assets/img/math-universe.jpg
 ---
 

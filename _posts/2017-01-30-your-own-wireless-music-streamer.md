@@ -2,7 +2,7 @@
 layout: post
 title: Make Your Own Wireless Music Streamer with Raspberry Pi
 tags: [DIY, music, raspberry pi]
-thumbnail-img: https://www.anudit.in/assets/img/wifi_streamer/rPi.jpg
+image: https://www.anudit.in/assets/img/wifi_streamer/rPi.jpg
 share-img: https://www.anudit.in/assets/img/wifi_streamer/rPi.jpg
 ---
 
