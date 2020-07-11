@@ -2,7 +2,7 @@
 layout: post
 title: 11 Most Incredibly Useful (& Essential) MacOS Apps!
 tags: [macOS, productivity]
-image: https://www.anudit.in/assets/img/macos_apps/mac-os-apps.jpg
+thumbnail-img: https://www.anudit.in/assets/img/macos_apps/mac-os-apps.jpg
 share-img: https://www.anudit.in/assets/img/macos_apps/mac-os-apps.jpg
 ---
 
