@@ -70,7 +70,7 @@ After giving your interview, all you can do is patiently wait for the final resu
 
 <center><img src="/assets/img/dsc_lead/pre_update.png"></center><br>
 
-## 5. New Beginnings!
+## New Beginnings!
 
 Finally! You made it! You have been accepted into the Google Developer Student Club Lead Program. And this is not the end but new beginnings. This is the moment you have been waiting for so cherish all you can. You will be a part of a team of Leads around the world who would help train student developers around campus and work with your local communities to solve real-life problems.
 
