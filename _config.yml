@@ -91,6 +91,8 @@ social-network-links:
 # telegram: yourname
 # calendly: yourname
 # mastodon: instance.url/@username
+# ORCID: 0000-0002-1867-9344
+# google-scholar: citations?user=4p4smu0AAAAJ
 
 # Select which share links to show in posts
 share-links-active:
