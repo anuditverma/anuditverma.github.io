@@ -16,6 +16,14 @@ var BeautifulJekyllJS = {
             $(".navbar").removeClass("top-nav-short");
         }
     });
+
+    // On mobile, hide the avatar when expanding the navbar menu
+    $('#main-navbar').on('show.bs.collapse', function () {
+      $(".navbar").addClass("top-nav-expanded");
+    });
+    $('#main-navbar').on('hidden.bs.collapse', function () {
+      $(".navbar").removeClass("top-nav-expanded");
+    });
     
     // show the big header image	
     BeautifulJekyllJS.initImgs();
