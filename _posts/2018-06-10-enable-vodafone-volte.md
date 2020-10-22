@@ -13,7 +13,7 @@ In February of 2018, *Vodafone* launched *VoLTE* services in metropolitans and s
 <h3>What You Will Get?</h3>
 Notice the *VoLTE* icon on the status bar next to the 4G signal strength.
 
-<center><img src="/assets/img/vodafone_volte/vodafone_screenshot.jpg" height="648" width="324"></center>
+<center><img src="/assets/img/vodafone_volte/vodafone_screenshot.jpg" height="648" width="324" alt="VoLTE active screenshot"></center>
 
 <h2>So Let's Get Started</h2>
 <h3>From Within Your Phone Settings:</h3>
@@ -59,7 +59,7 @@ Sometimes *Vodafone* needs to enable the *VoLTE* service on your number from the
 
 You might get a reply something similar to this:
 
-<center><img src="/assets/img/vodafone_volte/vodafone_email.jpg"></center>
+<center><img src="/assets/img/vodafone_volte/vodafone_email.jpg" alt="email from Vodafone"></center>
 
 I hope these steps would help you enable *VoLTE* on your number if there is any other concern, I would advise you to visit the *Vodafone Store* near you.
 

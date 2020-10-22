@@ -115,7 +115,7 @@ Because yeah, fortunately, there is an inbuilt support for streaming UPnP™/DLN
 
 Now you should be able to listen to your songs streamed over WiFi to your sound system setup. You can add your tracks in this small player Window and create your own digital mixtape.
 
-<center><img src="/assets/img/wifi_streamer/win_playto.jpg"></center>
+<center><img src="/assets/img/wifi_streamer/win_playto.jpg" alt="Windows Media Player"></center>
 
 I hope you enjoyed setup-ing your own wireless music streamer, also one more thing you can add this streaming service to startup boot sequence so you wouldn't need to connect to a display every time in order to manually execute the command in order to run this service. Special thanks to [Henner Zeller](https://github.com/hzeller) for making a resurrected version of the old [GMediaRender](http://gmrender.nongnu.org/) project and adding useful features. I will leave you with some useful links to make your music listening experience even more enjoyable.
 

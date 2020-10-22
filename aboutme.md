@@ -45,6 +45,6 @@ Let’s connect if you want to collab something awesome in the world of open-sou
 
 Oh, and one more thing, if you are wondering about the meaning of my name, well...
 <br><br>
-<center><img src="/assets/img/anudit-meaning.png"></center>
+<center><img src="/assets/img/anudit-meaning.png" alt="Meaning of name Anudit"></center>
 <br>
 <center><h3>Yes! It literally means translated, interesting, right? </h3><center>

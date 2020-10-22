@@ -14,7 +14,7 @@ The reason is something fundamental and at the machine level, that means what ex
 
 <center><h2>iOS vs Android</h2></center>
 
-<center><img src="/assets/img/android_vs_ios/apple-vs-android.png"></center>
+<center><img src="/assets/img/android_vs_ios/apple-vs-android.png" alt="Apple vs Android"></center>
 
 
 <h3>Architecture:</h3>
@@ -57,6 +57,6 @@ So, in fact, you don't need to remove those recent apps from the recent activity
 That's more processor, RAM and flash usage (in some cases with rendering, more GPU usage) - that's more battery usage.
 
 There might be subtle differences among them, each stands better in their own unique way, you may love them both or not like them at all but in the end, it seems, well see the picture which is self-evident.
-<center><img src="/assets/img/android_vs_ios/android-loves-ios.jpg"></center>
+<center><img src="/assets/img/android_vs_ios/android-loves-ios.jpg" alt="Android loves iOS"></center>
 
 Thank you for reading.
