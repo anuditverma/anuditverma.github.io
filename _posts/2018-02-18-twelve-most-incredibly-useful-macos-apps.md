@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 11 Most Incredibly Useful (& Essential) MacOS Apps!
+title: 12 Most Incredibly Useful (& Essential) MacOS Apps!
 tags: [macOS, productivity]
 thumbnail-img: https://www.anudit.in/assets/img/macos_apps/mac-os-apps.jpg
 share-img: https://www.anudit.in/assets/img/macos_apps/mac-os-apps.jpg
 ---
 
-Hi! Here is the list of __11 Incredibly Useful macOS Apps__ that I have curated and you should probably use them for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>
+Hi! Here is the list of __12 Incredibly Useful macOS Apps__ that I have curated and you should probably use them for enhancing your _macOS_ experience (or I can say it turns you into a superuser) and they are FREE! Yes, free as in free beer. I have been using them for a quite a while now, and I thought they would stand useful for you guys as well.<br>
 
 Whether you have a _MacBook Pro_ or _Air_ or a _iMac_, these work great for all, unless you have not been using macOS and have installed _Windows_ or any other OS (boot camped). However, only a few of them are available for _Windows_ and _Ubuntu_ as well.<br>
 
@@ -120,6 +120,14 @@ __Project Link:__ [ImageOptim.com/mac](https://imageoptim.com/mac)<br><br>
 HandBrake is a simple and one of the best video converter for macOS X, hands down! and it is open source-ed. "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs."
 
 __Project Link:__ [handbrake.fr](https://handbrake.fr/)<br><br>
+
+<h3>12. AppCleaner</h3>
+
+<img src="/assets/img/macos_apps/appcleaner.jpg" height="120" width="120" align="right" alt="AppCleaner">
+
+AppCleaner is a small application which allows you to thoroughly uninstall unwanted apps from your mac. Simply drop an application onto the AppCleaner window. It will find for the related files and you can delete them by clicking the delete button.
+
+__Project Link:__ [freemacsoft.net/appcleaner](https://freemacsoft.net/appcleaner/)<br><br>
 
 So did you like any of them? I am sure you will certainly like to use few of them regularly. In my opinion, some of them are really in great, they might help you in increasing your productivity.
 
