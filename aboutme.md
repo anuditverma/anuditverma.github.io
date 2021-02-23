@@ -28,12 +28,12 @@ I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>
 
 <p class="about-text">
 <span class="fa fa-heart about-icon"></span>
-Also, I am very fond of playing video games. I love to create digital art and play around with my Photoshop skills. Apart from this, I love listening to music and occasional cooking.
+Also, I am very fond of playing video games. I love to create digital art and play around with my Photoshop skills. Apart from this, I love listening to music and master my culinary skills.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab on building something super awesome together. Follow my social media links given in the footer below or drop an e-mail <a target="_blank" href="mailto:contact@anudit.in">here</a>.
+Let’s connect if you want to collab on building something super awesome together. Follow my social media links given in the footer below or drop an email <a target="_blank" href="mailto:contact@anudit.in">here</a>.
 </p>
 
 
