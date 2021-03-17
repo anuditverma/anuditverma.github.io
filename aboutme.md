@@ -47,4 +47,4 @@ Oh, and one more thing. If you are wondering about the meaning of my name, well.
 <br><br>
 <center><img src="/assets/img/anudit-meaning.png" alt="Meaning of name Anudit"></center>
 <br>
-<center><h3>Yes! It literally means translated, interesting, right? </h3><center>
+<center><h3>Yes! It literally means translated. Interesting, right? </h3><center>
