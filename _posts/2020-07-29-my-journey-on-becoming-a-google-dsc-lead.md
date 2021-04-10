@@ -24,10 +24,10 @@ Now let us get back to the focal point. Without further ado, I shall let you rea
 
 I would simply put this as verbatim from Google's site, *‘‘Developer Student Clubs are university-based community groups for students interested in Google developer technologies. Students from all undergraduate or graduate programs with an interest in growing as a developer are welcome. By joining a DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community.’’*
 
-Here is a short video presentation by Erica Hanson who is a Global Program Lead for Google Developer Students Clubs worldwide explaining what the program is about.
+Here is a short video presentation by Google Developers' YouTube Channel explaining what Developer Student Clubs (DSC) program is about.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/xMBkZRCA_Lo" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/earTjC0iSjg" allowfullscreen></iframe>
 </div>
 <br>
 
