@@ -14,7 +14,7 @@ Alright, I think you must be eager to know about that video now and what it port
 Let Dr Quantum himself explain Young's idea which was implemented in this experiment, watch this amazing video for an explanation with a twist at the end.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/R6G3-Zc9mtM?start=1974&end=2265" allowfullscreen></iframe>
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/btImof4nyzo?start=28&end=331" allowfullscreen></iframe>
 </div>
 
 <br>
