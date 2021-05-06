@@ -104,7 +104,7 @@ title: Anudit Verma - My Book Recommendations
 					<img class="product__image" src="images/The_White_Tiger.png" alt="The White Tiger" />
 					<h3 class="product__title">The White Tiger</h3>
 					<span class="product__author highlight">Aravind Adiga</span>
-					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+white+tiger+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
+					<button class="action action--button" onclick="window.open('https://www.google.com/search?q=the+white+tiger+book+review')"><i class="fa fa-comments"></i><span class="action__text">Reviews</span></button>
 				</div>
 			</div>
 			<div class="product">
