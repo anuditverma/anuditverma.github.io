@@ -165,6 +165,6 @@ title: Anudit Verma - My Book Recommendations
 			</div>			
 		</section>
 		<center>
-			<h3>Bookworm eh? Follow me on <a href="https://www.goodreads.com/anuditverma"><img src="goodreads_logo.png" alt="goodreads" /></a></h3>
+			<h3>Bookworm, eh?<br><a href="https://www.goodreads.com/anuditverma"><img src="goodreads_logo.png" alt="follow anuditverma on goodreads" /></a></h3>
 		</center>
 	</div>
