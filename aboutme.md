@@ -29,7 +29,10 @@ I enjoy reading <a target="_blank" href="https://www.anudit.in/books/">books</a>
 <p class="about-text">
 <span class="fa fa-running about-icon"></span>
 I love to run. I believe staying fit and taking care of your body is the most important thing you can do for yourself. So never underestimate your power to take on new challenges. Believe in yourself. Also, do not forget to keep track of your activities for a rewarding experience that will instil a sense of accomplishment.
-<center><iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/66143330/activity-summary/6406b79b69ddd174caaccc4c6c17138121524b2a'></iframe></center>
+<center><a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/66143330' target="_clean">
+  Follow me on
+  <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a></center>
 </p>
 
 <p class="about-text">
