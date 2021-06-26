@@ -2,7 +2,7 @@
 layout: post
 title: Simple Python Tips to Optimize Code Performance
 tags: [Python, productivity, code, performance]
-thumbnail-img: https://www.anudit.in/assets/img/python_tips/python-tips-logo.png
+image: https://www.anudit.in/assets/img/python_tips/python-tips-logo.png
 share-img: https://www.anudit.in/assets/img/python_tips/python-tips-logo.png
 ---
 
