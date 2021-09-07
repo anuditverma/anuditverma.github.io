@@ -35,7 +35,7 @@ Here is a short video presentation by Google Developers' YouTube Channel explain
 
 ## 1. How It All Started?
 
-On 10th June 2020 (coincidently it was my Mom's birthday), I received an invitation from Google Cloud Platform (GCP) Team to apply for Google DSC Program. But I wondered why I got the invite? Then I realized that oh! I had been mentoring participants from top North American hackathons in the Spring of 2020. I was helping student participants to deploy their software apps to utilize Google's Cloud Computing Services on GCP. So this might be a way of Google's Cloud Team recognizing me as an active GCP enthusiast and hence sending me an invite.
+On 10th June 2020, I received an invitation from Google Cloud Platform (GCP) Team to apply for Google DSC Program. But I wondered why I got the invite? Then I realized that oh! I had been mentoring participants from top North American hackathons in the Spring of 2020. I was helping student participants to deploy their software apps to utilize Google's Cloud Computing Services on GCP. So this might be a way of Google's Cloud Team recognizing me as an active GCP enthusiast and hence sending me an invite.
 
 <center><img src="/assets/img/dsc_lead/invite.png" alt="DSC Invitation email"></center><br>
 
