@@ -12,6 +12,11 @@ Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Softwa
 </p>
 
 <p class="about-text">
+<span class="fa fa-award about-icon"></span>
+I am honoured to have been named one of the <strong>World's Top 50 Hackers</strong> of 2021 by Major League Hacking (MLH). Read about the passionate and inspiring hackers who have made impactful contributions to the hacker community from all around the world <a target="_blank" href="https://top.mlh.io/2021">here</a>.
+</p>
+
+<p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
 I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science & Engineering from the University School of Information, Communication & Technology in New Delhi, India. I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University Long Beach.
 </p>
