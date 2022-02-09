@@ -46,7 +46,8 @@ So without further ado, I will let you revisit this beautiful poem.
 </center>
 
 <center>
-<strong>Antim Unchai<br><br></strong>  
+<strong>Antim Unchai<br></strong>
+(Hinglish Translation)<br><br> 
 
 Kitna Spasht Hota Aage Badte Jana Ka Matlab<br>
 Agar Duson Dishaye Humare Samne Hoti,<br>
@@ -75,8 +76,46 @@ Tab Tum Paoge Ki Koi Farak Nahi<br>
 Sab Kuch Jeet Lene Mein<br>
 Aur Antt Tak Himmat Na Haarne Mein |<br><br>
 
+- Kunwar Narayan<br><br><br>
+</center>
+
+<center>
+<strong>Antim Unchai<br></strong>
+(English Translation)<br><br> 
+
+How Clear It Would Have Been To Keep Moving Forward<br>
+If The Ten Directions Were In Front of Us,<br>
+Not Around Us |<br>
+How Easy It Would Have Been To Keep Walking<br>
+If Only We Could Walk<br>
+Everything Else Would Have Ceased |<br>
+I Have Seen This Bustling World<br>
+While Trying To Think With Ten Heads And Trying To Achieve It With Twenty Hands<br>
+I Have Made It Difficult For My Self |<br>
+Everyone In The Begining Wants<br>
+That Everything Should Start From The Begining,<br>
+But By The Time They Reach The End, They Lose Their Courage |<br>
+We Lose Interest<br>
+That How It Would All End<br>
+That Started With So Much Fanfare<br>
+On Our Wish |<br>
+While Conquering Inaccessible Forest And High Mountains<br>
+When You Conquer Even The Final Height - <br>
+When You Feel That There Is No Difference Now<br>
+In You And In The Hardness Of Those Stones<br>
+Which You Have Won - <br>
+When You Will Face The First Snowstorm On Your Head<br>
+And Will Not Tremble - <br>
+Then You Will Find That There Is No Difference<br>
+To Win Everything<br>
+And In Not Giving Up Till The End |<br><br>
+
 - Kunwar Narayan<br>
 </center>
+
+<br>
+<strong>PS: </strong>I have done these translations myself. Please feel free to comment below if you want to improve the translation that can help more readers :)
+<br>
 
 <br>
 And here is the video clip from the Season Finale of *TVF's Aspirants* Web Series where Abhilash, the IAS (Indian Administrative Service) aspirant who later in the story becomes one narrates the remaining part of the poem *Antim Unchai*.
