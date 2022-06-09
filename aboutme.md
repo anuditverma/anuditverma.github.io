@@ -8,7 +8,7 @@ subtitle: "For a start, my favorite quote is, <br> Do what you love, love what y
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and a Community Enabler living in Long Beach, California, US.
+Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and a Community Enabler living in Sunnyvale, California, US.
 </p>
 
 <p class="about-text">
