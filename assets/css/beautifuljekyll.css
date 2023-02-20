@@ -540,7 +540,7 @@ footer .footer-custom-content {
 .post-preview .post-image-small {
   width: 100%;
   height: 100%;
-  text-align: center;
+  text-align: right;
   display: none;
 }
 .post-preview .post-image-small img {
