@@ -2,7 +2,7 @@
 layout: post
 title: My Journey On Becoming A Google Developer Student Club (DSC) Lead
 tags: [Google, Developer Student Club, DSC]
-image: https://www.anudit.in/assets/img/dsc_lead/dsc_logo.png
+thumbnail-img: https://www.anudit.in/assets/img/dsc_lead/dsc_logo.png
 share-img: https://www.anudit.in/assets/img/dsc_lead/dsc_logo.png
 ---
 

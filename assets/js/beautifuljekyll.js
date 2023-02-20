@@ -24,9 +24,11 @@ var BeautifulJekyllJS = {
     $('#main-navbar').on('hidden.bs.collapse', function () {
       $(".navbar").removeClass("top-nav-expanded");
     });
-    
-    // show the big header image	
+
+    // show the big header image
     BeautifulJekyllJS.initImgs();
+
+    BeautifulJekyllJS.initSearch();
   },
 
   initNavbar : function() {
@@ -39,9 +41,11 @@ var BeautifulJekyllJS = {
     ) / 1000);
     if (brightness <= 125) {
       $(".navbar").removeClass("navbar-light").addClass("navbar-dark");
+    } else {
+      $(".navbar").removeClass("navbar-dark").addClass("navbar-light");
     }
   },
-  
+
   initImgs : function() {
     // If the page was large images to randomly select from, choose an image
     if ($("#header-big-imgs").length > 0) {
@@ -87,7 +91,7 @@ var BeautifulJekyllJS = {
       }
     }
   },
-  
+
   getImgInfo : function() {
     var randNum = Math.floor((Math.random() * BeautifulJekyllJS.numImgs) + 1);
     var src = BeautifulJekyllJS.bigImgEl.attr("data-img-src-" + randNum);
@@ -98,14 +102,38 @@ var BeautifulJekyllJS = {
       desc : desc
     }
   },
-  
+
   setImg : function(src, desc) {
-	    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
     if (typeof desc !== typeof undefined && desc !== false) {
       $(".img-desc").text(desc).show();
     } else {
       $(".img-desc").hide();
     }
+  },
+
+  initSearch : function() {
+    if (!document.getElementById("beautifuljekyll-search-overlay")) {
+      return;
+    }
+
+    $("#nav-search-link").click(function(e) {
+      e.preventDefault();
+      $("#beautifuljekyll-search-overlay").show();
+      $("#nav-search-input").focus().select();
+      $("body").addClass("overflow-hidden");
+    });
+    $("#nav-search-exit").click(function(e) {
+      e.preventDefault();
+      $("#beautifuljekyll-search-overlay").hide();
+      $("body").removeClass("overflow-hidden");
+    });
+    $(document).on('keyup', function(e) {
+      if (e.key == "Escape") {
+        $("#beautifuljekyll-search-overlay").hide();
+        $("body").removeClass("overflow-hidden");
+      }
+    });
   }
 };
 

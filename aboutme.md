@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: "For a start, my favorite quote is, <br> Do what you love, love what you do."
+subtitle: "Do What You Love, Love What You Do."
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and a Community Enabler living in Sunnyvale, California, US.
+Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US.
 </p>
 
 <p class="about-text">
@@ -18,7 +18,7 @@ I am honoured to have been named one of the <strong>World's Top 50 Hackers</stro
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I obtained my <strong>Bachelor of Technology</strong> degree in Computer Science & Engineering from the University School of Information, Communication & Technology in New Delhi, India. I am currently pursuing a <strong>Master of Science in Computer Science</strong> degree from California State University Long Beach.
+I have a <strong>Master's Degree</strong> in Computer Science from California State University Long Beach. I obtained my <strong>Bachelor of Technology Degree</strong> in Computer Science & Engineering from the University School of Information, Communication & Technology (USICT) in New Delhi, India.
 </p>
 
 <p class="about-text">

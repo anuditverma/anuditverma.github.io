@@ -14,8 +14,14 @@
         }
       </script>
     {% else %}
-      <script src="{{ js | prepend: site.baseurl | replace: '//', '/' }}"></script>
+      <script src="{{ js | relative_url }}"></script>
     {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if site.site-js %}
+  {% for js in site.site-js %}
+    <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
 

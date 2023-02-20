@@ -168,3 +168,4 @@ title: Anudit Verma - My Book Recommendations
 			<h3>Bookworm, eh?<br><a href="https://www.goodreads.com/anuditverma"><img src="goodreads_logo.png" alt="follow anuditverma on goodreads" /></a></h3>
 		</center>
 	</div>
+</div>
