@@ -1,11 +1,15 @@
 ---
 layout: page
 title: First post!
-tags: [random, exciting-stuff]
+tags: [new beginnings, exciting-stuff]
 cover-img:
   - "/assets/img/anudit-verma.jpg"
 ---
 
-This is my first post, I'm moving from my old blog to GitHub pages now. It has been very exciting since I started developing it, soon I'll add new posts here as well as some of my older ones too. Watch out this space for more!
+<center><h2>Hello from the other side!</h2></center>
 
-PS: By the way yes the above picture is a reference to __Stranger Things!__ <br>So you have found an easter egg, that's pretty good! I really liked that little explorer in you, please continue with your quest...
+Welcome to my first blog post on GitHub pages. I am migrating from my old blog to GitHub pages now. It has been exciting since I started developing it. I will soon add new posts here with some of my older posts. Watch out for this space for more!
+
+PS: By the way, Yes! if you have noticed, the above picture and the heading of this blog post is a reference to __Stranger Things__!
+
+So you have found an easter egg. That is pretty good! I liked that little explorer in you. Please continue with your quest...
