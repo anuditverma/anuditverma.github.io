@@ -46,6 +46,14 @@
   <!-- favicon -->
   <link rel="shortcut icon" type="image/png" href="/favicon.png">
 
+  <!-- MathJax -->
+  <script type="text/x-mathjax-config">MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']]
+    }
+  };</script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
   {% if site.rss-description %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
   {% endif %}
