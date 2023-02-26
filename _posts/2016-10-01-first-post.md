@@ -3,7 +3,7 @@ layout: page
 title: First post!
 tags: [new beginnings, exciting-stuff]
 cover-img:
-  - "/assets/img/anudit-verma.jpg"
+  - "https://www.anudit.in/assets/img/anudit-verma.jpg"
 ---
 
 <center><h2>Hello from the other side!</h2></center>
