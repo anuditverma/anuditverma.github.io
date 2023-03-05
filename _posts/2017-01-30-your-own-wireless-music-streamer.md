@@ -127,7 +127,7 @@ I hope you enjoyed setup-ing your own wireless music streamer. Also, one more th
 
 <h3>Useful Links:</h3>
 
-* The list of compatible stream-able apps/options/features of various platforms (Android, Windows, iOS, MacOSX) is present [here.](https://github.com/hzeller/gmrender-resurrect/wiki/Comptibility)
+* The list of compatible stream-able apps/options/features of various platforms (Linux, Android, Windows, iOS, macOS, iPadOS) is present [here.](https://github.com/hzeller/gmrender-resurrect/wiki/Comptibility)
 * And the list of UPnP/DLNA controllers tested with gmrender-resurrect is present [here.](https://github.com/hzeller/gmrender-resurrect/wiki/Compatibility)
 * If you want to add a small LCD display to view songs' info like track name, artist's info, album etc then make sure to check out this [repository.](https://github.com/hzeller/upnp-display)
 
