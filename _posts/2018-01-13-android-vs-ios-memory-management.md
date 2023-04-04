@@ -6,11 +6,9 @@ thumbnail-img: https://www.anudit.in/assets/img/android_vs_ios/android-vs-ios.jp
 share-img: https://www.anudit.in/assets/img/android_vs_ios/android-vs-ios.jpg
 ---
 
-__Just for thought:__ If you have ever wondered why iPhones running iOS aren't much RAM extensive or doesn't require much RAM than most of the Android Flagship phones are using? Why spokespersons at *Apple Inc.* aren't boastful about the amount of RAM available to most modern iPhones while showcasing them?
+__Just for thought:__ If you have ever wondered why iPhones running iOS are not RAM extensive or don’t require much RAM as most Android flagship phones use? Why spokespersons at Apple Inc. aren’t boastful about the amount of RAM available to most modern iPhones while showcasing them?
 
-
-The reason is something fundamental and at the machine level, that means what exactly iOS do differently than Android in order manage such smooth performance despite being having less RAM. Let us find out, read along.
-
+The reason is something fundamental and at the machine level. That means what exactly does iOS do differently than Android to manage such smooth performance despite having less RAM? Let us find out.
 
 <center><h2>iOS vs Android</h2></center>
 
@@ -32,31 +30,32 @@ iOS originally didn't have background-tasks as we know them today, so in the ear
 
 <h3>Memory Management:</h3>
 
-In iOS, the memory is managed by the app, rather than a garbage collector. In the old days developers would have to use *alloc* and *dealloc* to manage their memory themselves - but now we have automatic reference counting, so there is a mini garbage collection system happening for iOS apps, but it's on an app basis and it's very lightweight and only uses memory for as long as it is actually needed (and with *Swift* this is even more optimised).
+In iOS, the memory is managed by the app, rather than a garbage collector. In the old days, developers would have to use *alloc* and *dealloc* to manage their memory themselves - but now we have automatic reference counting, so there is a mini garbage collection system happening for iOS apps, but it's on an app basis and it's very lightweight and only uses memory for as long as it is actually needed (and with *Swift* this is even more optimised).
 
 Android's original virtual machine, *Dalvik*, was built in an era when the industry did not know what CPU architecture would dominate the mobile world (or if one even would). Thus it was designed for *x86, ARM* and *MIPS* with room to add future architectures as needed.
 
-The iPhone revolution resulted in the industry moving almost entirely to use the *ARM* architecture, so *Dalvik's* compatibility benefits were somewhat lost. More-so, *Dalvik* was quite a battery intensive - once upon a time Android devices had awful battery life (less than a day) and iOS devices could last a couple of days.
+The iPhone revolution resulted in the industry moving almost entirely to use the *ARM* architecture, so *Dalvik's* compatibility benefits were somewhat lost. More so, *Dalvik* was quite battery intensive - once upon a time Android devices had awful battery life (less than a day) and iOS devices could last a couple of days.
 
 <h3>Runtime Environment:</h3>
 
 Android now uses a new Runtime called __Android RunTime (ART)__. This new runtime is optimised to take advantage of the target processors as much as possible (*x86, ARM, MIPS*) - and it is a little harder to add new architectures.
 
-ART does a lot differently to *Dalvik*; it stores the translated Java byte-code as raw machine-code binary for your device. This means apps actually get faster the more you use them as the system slowly translates the app to machine-code. Eventually, only the machine code needs to be stored in memory and the byte-code can be ignored (frees up a lot of RAM). (This is Dalvik, not ART). ART compiles the Java byte-code during the app install (how could I forget this? *Google* made such a huge deal about it too!).
+ART does a lot differently from Dalvik; it stores the translated Java byte code as raw machine-code binary for your device. This means apps get faster the more you use them as the system slowly translates the app to machine code. Eventually, only the machine code needs to be stored in memory and the byte-code can be ignored (frees up a lot of RAM). (This is Dalvik, not ART). ART compiles the Java byte code during the app install (how could I forget this? *Google* made such a huge deal about it too!).
 
 In recent times, Android itself has become far more power aware, and because it uses a virtual machine Android can make power-efficiency decisions across all apps that iOS cannot (as easily). This has resulted in the bizarre situation that most developers thought they would never see where Android devices now tend to have longer battery life (a few days) than iOS devices - which now last less than a day.
 
-The garbage collected memory of Android and its heavy multi-tasking still consumes a fair amount of memory, these days both iOS and Android are very well optimised for their general usage. The OS tend to use as much memory as it can to make the device run as smoothly as possible and as power-efficient as possible.
+The garbage-collected memory of Android and its heavy multi-tasking still consumes a fair amount of memory, these days both iOS and Android are very well optimised for their general usage. The OS tend to use as much memory as it can to make the device run as smoothly as possible and as power-efficient as possible.
 
 
 <h3>So, What Have We Learnt?</h3>
 Remember task managers on Android? They pretty much aren't needed anymore as the OS does a fantastic job on its own. Task killing, in general, is probably worse for your phone now as it undoes a lot of the spin-up optimisation that is done on specific apps when they are sent to the background. iOS gained task killing for some unknown reason (probably iOS users demanding one be added because Android has one) - but both operating systems can do without this feature now. The feature is kept around because users would complain if these familiar features disappear. I expect in future OS versions the task-killers won't actually do anything and will become a placebo - or it will only reset the app's navigation stack, rather than kills the task entirely. 
 
-So, in fact, you don't need to remove those recent apps from the recent activity tab. It is better to not swipe away apps. By swiping them away, you're undoing the memory and state optimisations that were applied to the app, so when you launch it the app needs to do a cold-boot and rebuild all that memory and reload all the stuff it previously had cached.
+So, in fact, you don't need to remove those recent apps from the recent activity tab. It is better to not swipe away apps. By swiping them away, you're undoing the memory and state optimisations that were applied to the app, so when you launch it the app needs to do a cold boot and rebuild all that memory and reload all the stuff it previously had cached.
 
 That's more processor, RAM and flash usage (in some cases with rendering, more GPU usage) - that's more battery usage.
 
-There might be subtle differences among them, each stands better in their own unique way, you may love them both or not like them at all but in the end, it seems, well see the picture which is self-evident.
+There might be subtle differences among them, but each stands better in its own unique way, you may love them both or not like them at all but in the end, it seems, well see the picture which is self-evident.
+
 <center><img src="/assets/img/android_vs_ios/android-loves-ios.jpg" alt="Android loves iOS"></center>
 
 Thank you for reading.
