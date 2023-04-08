@@ -4,11 +4,11 @@ title: Antim Unchai - An Inspirational Poem by Padma Bhushan Kunwar Narayan
 tags: [Poem, Kunwar Narayan]
 ---
 
-One of the finest poets in Hindi literature with a landmark of works putting Padma Bhusan awardee Kunwar Narayan on the forefronts of the literary world. He never ceased to inspire a generation of people with his work resonating waves of motivational and inspirational vibes.
+One of the finest poets in Hindi literature with a landmark of works. Yes! I am talking about Padma Bhusan awardee Kunwar Narayan present at the forefront of the literary world. He never ceased to inspire a generation of people with his work resonating waves of motivational and inspirational vibes.
 
-__Antim Unchai__ (*अंतिम ऊँचाई*) is part of his collection of poems from the book *Apne Sapne* published in 2003. Kunwar Narayan embraced life on different grounds of cognition and thought where diversity is his unique element. Most of his poems do not seem to create boundaries but an immersion of various language and subjects.
+__Antim Unchai__ (*अंतिम ऊँचाई*) is part of his collection of poems from the book Apne Sapne published in 2003. Kunwar Narayan embraced life on different grounds of cognition and thought. Diversity is his unique element. Most of his poems do not seem to create boundaries but an immersion in various languages and subjects.
 
-There is an absence of deceptions in the language of his poetry and many of his poems touch different parts of life in a completely new way. The relationship of poetry can be very distant or close with the reality of life. The question is how much poetry is true and generous in its power to make it all worth. His works sometimes go deep into the folds of many historical or philosophical experiences and sometimes looks so simple that it seems very close to us.
+There is an absence of deceptions in the language of his poetry. Many of his poems touch different parts of life in a completely new way. The relationship of poetry can be very distant or close to the reality of life. The question is how much poetry is generous in its power to make it all worthwhile. His works sometimes go deep into the folds of many historical or philosophical experiences and sometimes look so simple that it seems very close to us.
 
 So without further ado, I will let you revisit this beautiful poem.
 
@@ -114,11 +114,11 @@ And In Not Giving Up Till The End |<br><br>
 </center>
 
 <br>
-<strong>PS: </strong>I have done these translations myself. Please feel free to comment below if you want to improve the translation that can help more readers :)
+<strong>PS: </strong>I have done these translations myself. Please feel free to comment below if you want to improve the translation so you can help more readers :)
 <br>
 
 <br>
-And here is the video clip from the Season Finale of *TVF's Aspirants* Web Series where Abhilash, the IAS (Indian Administrative Service) aspirant who later in the story becomes one narrates the remaining part of the poem *Antim Unchai*.
+And here is the video clip from the Season Finale of *TVF's Aspirants* Web Series where Abhilash, the IAS (Indian Administrative Service) aspirant who later in the story becomes one, narrates the remaining part of the poem *Antim Unchai*.
 <br>
 
 <div class="embed-responsive embed-responsive-16by9">
