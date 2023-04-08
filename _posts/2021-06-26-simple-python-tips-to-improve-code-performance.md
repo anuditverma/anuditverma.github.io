@@ -6,15 +6,15 @@ thumbnail-img: https://www.anudit.in/assets/img/python_tips/python-tips-logo.png
 share-img: https://www.anudit.in/assets/img/python_tips/python-tips-logo.png
 ---
 
-Python, created by Guido van Rossum and released in 1991, is now an advanced, general-purpose programming language. In contrast with other programming languages such as C++ or JAVA, Python is deemed to be more accessible because of its simplified syntax that stresses code readability. It utilizes substantial whitespace and simplicity as it allows programmers to write models and conceptions in fewer lines of codes.
+Python, created by Guido van Rossum and released in 1991, is now an advanced, general-purpose programming language. In contrast with other programming languages like C++ or JAVA, Python is deemed more accessible because of its simplified syntax that stresses code readability. It utilizes substantial whitespace and simplicity letting programmers write models and conceptions in fewer lines of code.
 
 <center><img src="/assets/img/python_tips/py-joke.jpg" alt="Python Joke"></center>
 
-Improving performances by optimization of code should be a healthy practice employed by every type of coders. Whether you are beginning to write code or already have mastery over the language, it would not harm to look up some ways in which you can improve your code. This practice would also help earn some brownie points in an interview setting.
+Improving performances by code optimization should be a healthy practice for every coder. Whether you are beginning to write code or already have mastery over the language, it would not harm to look up some ways to improve your code. This practice would also help earn some brownie points in an interview setting.
 
-Python has many business and scientific applications that make it more versatile amongst the other popular programming languages. The most common uses of Python can be seen in Backend Development, Game Development, Data Science and wildly popular Machine Learning. Having a plethora of unique qualities and features makes Python an ideal candidate for coding computer programs. However, there is always room for improvements.
+Python has many business and scientific applications making it more versatile than other popular programming languages. The most common uses of Python are in Backend Development, Game Development, Data Science and wildly popular Machine Learning. Having unique qualities and features makes Python an ideal candidate for coding computer programs. However, there is always room for improvement.
 
-Let's dive into some handy tips to help you get more performance out of your Python code. I have included benchmarks for almost all the tips so that you can observe the improvements in speedups.
+Let’s dive into some handy tips to see how you can improve the Python code. I have included benchmarks for all the suggestions. You can observe the improvements in speedups.
 
 <h3>1. Do Not Re-invent the Wheel</h3>
 
@@ -58,7 +58,7 @@ Time taken by with_in_built_map:  12.068126550999999
 
 <h3>2. Optimize Your Loops</h3>
 
-Loops are an essential part of every software development life cycle. Every developer once in a while has implemented any type of loop while coding. Ever so that there are times when developers need to emphasise the optimisation of loops in their coding solution. While working in Python you can actually use a plethora of techniques for making loops run faster. Let us dive into it and see an illustration for improving for-loop in Python.
+Loops are an essential part of every software development life cycle. Every developer has implemented any loop while coding. Ever so that there are times when developers need to emphasise the optimisation of loops in their coding solution. Let's see some techniques for making loops run faster and see an illustration for improving for-loop in Python.
 
 *Example 1:*
 
@@ -81,7 +81,7 @@ new_zip_codes = map(str.strip, old_zip_codes)
 
 *Example 3:*
 
-Another round of optimisation that we can do on this line of code is that we can make it more linear using list comprehensions.
+Another round of optimisation that we can do on this line of code is by making it more linear using list comprehensions.
 
 ```python
 new_zip_codes += [zip.strip() for zip in zip_codes]
@@ -89,13 +89,13 @@ new_zip_codes += [zip.strip() for zip in zip_codes]
 
 *Example 4:*
 
-Last and not least, we can make it faster by converting the loop into a generator expression.
+Lastly, we can make it faster by converting the loop into a generator expression.
 
 ```python
 itertools.chain(zip_codes, (zip.strip() for zip in new_zip_codes))
 ```
 
-Now let us club all these examples in a Python code and observe the benchmarks.
+Now let us club all these examples in Python code and observe the benchmarks.
 
 ```python
 import timeit
@@ -164,9 +164,9 @@ update_zips_with_gen_exp() Time  : 0.9815816259999997
 
 <h3>3. Avoid Using Globals</h3>
 
-Another way in which Python code can be optimized is with minimal usage of global variables. Not only it ensures to generate an effective design pattern but also it helps to keep track of reach, preventing redundant memory usage.
+Another way to optimize Python code is with minimal usage of global variables. It ensures the generation of an effective design pattern. It also helps to keep track of reach, preventing redundant memory usage.
 
-That means using a local variable is recommended as it helps us get more brownie points in terms of execution speed. Python retrieves a local variable way faster than a global one. To help illustrate this, consider the following Python code:
+That means using a local variable is recommended. It helps us get more brownie points in terms of execution speed. Python retrieves a local variable way faster than a global one. To help illustrate this, consider the following Python code:
 
 ```bash
 test_string = "Hello, World!"
@@ -200,7 +200,7 @@ Time taken by Local : 6.58575879
 
 <h3>4. Reduce Memory Footprint</h3>
 
-Who does not love that your code is so well optimised that it uses minimal use of resources? Another level of optimisation that you can employ in your code is reducing the memory footprints. But how would you achieve this? Consider the following example:
+Who does not love that your code is so well-optimised that it uses minimal use of resources? Another level of optimisation that you can employ in your code is reducing the memory footprints. But how would you achieve this? Consider the following example:
 
 ```python
 message_string = 'I\n'
@@ -208,7 +208,7 @@ message_string += 'Love\n'
 message_string += 'Python\n'
 ```
 
-These lines of codes seem inefficient because upon each pass new string gets created. Instead, you can use a list and join them together. Here is how:
+These lines of code seem inefficient because upon each pass new string gets created. Instead, you can use a list and join them together. Here is how:
 
 ```python
 message_string = ['I', 'Love', 'Python']
@@ -249,9 +249,9 @@ More like *Harder, Better, Faster, Stronger* by *Daft Punk* but coding style. If
 
 <h3>5. Use Cache Methods</h3>
 
-As they say, every second count, in programming we are dealing with not only seconds with the tiniest fractions of seconds to improve on performance. Caching is another clever way to make slight improvements in your program. The way Python does this is called the process of Memoization. When a function is being evaluated it simply becomes the matter of looking up the result when we first evaluated it.
+As they say, every second counts. In programming, we are dealing with not only seconds with the tiniest fractions of seconds to improve performance. Caching is another clever way to make slight improvements in your program. The way Python does this is called the process of Memoization. When a function is being evaluated it simply becomes a matter of looking up the result when we first evaluated it.
 
-Let's consider the following simple class that encloses a list and adds the ability to perform a total summation over it:
+Let’s consider the following simple class that encloses a list and adds the ability to perform a total summation over it:
 
 ```python
 class advanced_list:
@@ -268,7 +268,7 @@ my_list = advanced_list([1] * 10000000) # a list of 10 million ones
 my_list.sum() # outputs: 10000000
 ```
 
-So when each time we call *my_list.sum()*, it will iterate over the list and calculate the summation. This can be very time-consuming and unnecessary if the list remains the same.
+So when each time we call *my_list.sum()*, it will iterate over the list and calculate the summation. It can be very time-consuming and unnecessary if the list remains the same.
 
 Nevertheless, we can come around this by following this code:
 
@@ -363,7 +363,7 @@ You can observe that the second code runs four times more durably than the first
 
 <h3>7. Avoid Checking if a Variable is True</h3>
 
-A traditional way that coders are used to while looking for an empty variable is to compare them with *None*. While this does make sense, but a little tweak can help you get some bump up in the performance of your application. How would you achieve this? Instead of comparing an object with *None* to check if it is empty or not, you can simply pass it as the only thing in the condition check. 
+A traditional way that coders are used to while looking for an empty variable is to compare them with None. While this does make sense, a little tweak can help you get some bump up in the performance of your application. How would you achieve this? Instead of comparing an object with None to check if it is empty or not, you can simply pass it as the only thing in the condition check.
 
 Here is a small implementation to help you understand this.
 
@@ -412,7 +412,7 @@ Time taken by faster_way:  4.991210322000001
 
 <h3>8. Use List Comprehension</h3>
 
-List Comprehension in Python can help you minimise multiple lines of code of the same task in one. It is one of the language's most distinctive features which provides us with a simple way to create a list based on some iterable.
+List Comprehension in Python can help you minimise multiple lines of code of the same task in one. It is one of the language’s most distinctive features that provides a simple way to create a list based on some iterable.
 
 The list comprehensions are more efficient both computationally and in terms of coding space and time than a for-loop. Let us see an example of the speed of a for loop vs the speed of a list comprehension. We will pass the number of executions using the number argument and set this argument to 1 million.
 
@@ -489,7 +489,7 @@ Time taken with dot . operator:  0.197880573
 Time taken without dot . operator:  0.15837284499999998
 ```
 
-But how by simply removing a dot it can help us achieve a significant amount of performance? Because when we call a function using . (dot) it first calls *getattribute()* or *getattr()* which then use dictionary operation which costs time. So, we can try using, from module import function.
+But how simply removing a dot can help us achieve a significant amount of performance? Because when we call a function using . (dot) it first calls *getattribute()* or *getattr()* which then use dictionary operation which costs time. So, we can try using, from module import function.
 
 <br><br>
 
@@ -544,6 +544,6 @@ Time taken by overlaps_with_for_loop:  0.042888203999999985
 Time taken by overlaps_with_set:  0.019182008
 ```
 
-I believe these Python performance tips may bring a sea change for you when you want to save significant time and resources. I hope that you would try to incorporate these tips and tricks to make your applications run faster and more efficiently.
+I believe these performance tips may bring a sea change when you want to save significant time and resources. I hope you will try these tips and tricks to make your applications run faster and more efficiently.
 
 Thank you for reading.
