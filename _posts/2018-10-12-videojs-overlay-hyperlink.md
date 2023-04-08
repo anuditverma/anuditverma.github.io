@@ -5,7 +5,7 @@ tags: [videojs, videojs-plugin, video]
 ---
 
 
-A simple video.js plugin to display hyperlinks during video playback using overlays. This plugin is built upon popular video.js plugin called videojs-overlay.<br>
+A simple video.js plugin to display hyperlinks during video playback using overlays. The plugin is built on a popular video.js plugin called videojs-overlay.<br>
 
 ## Static Preview
 
@@ -22,7 +22,7 @@ git clone https://github.com/anuditverma/videojs-overlay-hyperlink.git
 
 ## Getting Started
 
-First of all, import the plugin's javascript and css files into your webpage.
+First of all, import the plugin's javascript and CSS files into your webpage.
 ```html
 <!-- js -->
 <script src="path/to/js/video.js"></script>
@@ -46,7 +46,7 @@ Add another javascript to define your target hyperlink, just assign `yourLink` v
 ```
 ## Configure Setup
 
-The main section of your setup, where you can configure the positioning and duration of the hyperlink.
+This is the main section of your setup. Here you can configure the positioning and duration of the hyperlink.
 
 ```js
 <script>
