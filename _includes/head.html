@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  {% capture title %}
+  {% capture pagetitle %}
     {%- if page.use-site-title -%}
       {{ site.title | strip_html | xml_escape }} {{ site.title-separator }} {{ site.share-title }}
     {%- elsif page.share-title -%}
@@ -11,6 +11,14 @@
       {{ page.title | strip_html | xml_escape  }}
     {%- else -%}
       {{ site.title | strip_html | xml_escape }}
+    {%- endif -%}
+  {% endcapture %}
+
+  {% capture title %}
+  {%- if page.title-off-on-page -%}
+      {{ pagetitle }}
+    {%- elsif site.title and site.title-on-all-pages and (site.title != pagetitle) -%}
+      {{ pagetitle }} | {{ site.title }}
     {%- endif -%}
   {% endcapture %}
 

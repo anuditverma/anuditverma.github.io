@@ -89,7 +89,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+#  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -111,6 +111,12 @@ share-links-active:
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "anudit.in"
+
+# Show the site title in the <title> of all pages in addition to the page title
+title-on-all-pages: true
+
+# Hide the site title in the <title> of a page in addition to the page title
+title-off-on-page: false
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
