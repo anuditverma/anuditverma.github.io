@@ -8,7 +8,7 @@ subtitle: "Do What You Love, Love What You Do."
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
-Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Software Developer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US.
+Hello, World! My name is <strong>Anudit Verma</strong>. I am a Full Stack Software Engineer, Designer, Mentor, Open-Source Evangelist and Community Enabler living in Sunnyvale, California, US.
 </p>
 
 <p class="about-text">
