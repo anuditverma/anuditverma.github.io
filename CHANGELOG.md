@@ -1,7 +1,7 @@
 ## 2024 - 2nd March 2024 - Saturday
 Happy New Year 2024! I am starting to maintain a simple changelog for the blog.
 
-#### Breaking changes
+#### Change Log:
 - Discord supports old and new invite code styles 
 - Be explicit about jekyll version to fix github action
 - Add webrick to gemspec because it isnt included in ruby3 anymore
