@@ -31,3 +31,4 @@ Summer Bloom Update!
 - Fix GitHub Actions for Jekyll 4.x
 - github action: update checkout to latest v4
 - Added Whatsapp to social network
+- Add mathjax YAML parameter to support mathjax expressions (I had already added this in 2016)

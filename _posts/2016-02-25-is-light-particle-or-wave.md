@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Light: Particle or Wave?"
+mathjax: true
 tags: [science]
 ---
 
