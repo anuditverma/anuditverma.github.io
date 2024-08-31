@@ -5,7 +5,7 @@ PATH
       jekyll (~> 3.9.3)
       jekyll-paginate (~> 1.1)
       jekyll-sitemap (~> 1.4)
-      kramdown (~> 2.3.2)
+      kramdown (~> 2.3)
       kramdown-parser-gfm (~> 1.1)
 
 GEM

@@ -21,3 +21,10 @@ Happy New Year 2024! I am starting to maintain a simple changelog for the blog.
 - Add a title-on-all-pages site option
 - Add a title-off-on-page site option (Custom Solution)
 - Updated Search Bar
+
+
+## 2024 - 31st August 2024 - Saturday
+Summer Bloom Update!
+
+#### Change Log:
+- Relax version constraint for kramdown to support latest version of github-pages
