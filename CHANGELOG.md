@@ -28,7 +28,5 @@ Summer Bloom Update!
 
 #### Change Log:
 - Relax version constraint for kramdown to support latest version of github-pages
-- Fix GitHub Actions for Jekyll 4.x
-- github action: update checkout to latest v4
 - Added Whatsapp to social network
 - Add mathjax YAML parameter to support mathjax expressions (I had already added this in Feb 2016)
