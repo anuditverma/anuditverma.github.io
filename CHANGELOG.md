@@ -29,3 +29,4 @@ Summer Bloom Update!
 #### Change Log:
 - Relax version constraint for kramdown to support latest version of github-pages
 - Fix GitHub Actions for Jekyll 4.x
+- github action: update checkout to latest v4
