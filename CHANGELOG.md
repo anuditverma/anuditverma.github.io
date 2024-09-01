@@ -30,3 +30,4 @@ Summer Bloom Update!
 - Relax version constraint for kramdown to support latest version of github-pages
 - Added Whatsapp to social network
 - Add mathjax YAML parameter to support mathjax expressions (I had already added this in Feb 2016)
+- Use CSS variables
