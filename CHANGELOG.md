@@ -33,3 +33,4 @@ Summer Bloom Update!
 - Use CSS variables
 - Upgraded font-awesome to 6.5.2
 - Changed Twitter icon to X
+- Fixed bug where search results broke if a post title had a backslash
