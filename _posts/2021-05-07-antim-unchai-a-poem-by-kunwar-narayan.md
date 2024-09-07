@@ -115,10 +115,11 @@ And In Not Giving Up Till The End |<br><br>
 
 <br>
 <strong>PS: </strong>I have done these translations myself. Please feel free to comment below if you want to improve the translation so you can help more readers :)
-<br>
 
-<br>
-And here is the video clip from the Season Finale of *TVF's Aspirants* Web Series where Abhilash, the IAS (Indian Administrative Service) aspirant who later in the story becomes one, narrates the remaining part of the poem *Antim Unchai*.
+## Download Antim Unchai poem pdf:
+Click <strong>[here](https://www.anudit.in/assets/pdfs/Antim_Unchai_Poem.pdf)</strong> download this small ~60kB yet mighty PDF that combines Hindi, Hinglish, and English versions of this poem that speaks to the soul. If you’re an ambitious dreamer working with dedication towards your life’s highest goals, this powerful printout could be your constant companion, fueling your journey to success!
+
+And here is the video clip from the Season Finale of *TVF's Aspirants* Web Series where Abhilash, the UPSC IAS (Indian Administrative Service) aspirant who later in the story becomes one, narrates the remaining part of the poem *Antim Unchai*.
 <br>
 
 <div class="embed-responsive embed-responsive-16by9">
