@@ -34,3 +34,13 @@ Summer Bloom Update!
 - Upgraded font-awesome to 6.5.2
 - Changed Twitter icon to X
 - Fixed bug where search results broke if a post title had a backslash
+
+
+## 2025 - 19th April 2025 - Saturday
+Spring Spark Update!
+
+#### Change Log:
+- Move search to its own file
+- Bug Fix: Cause tables to scroll when wide
+- Add author to RSS feed
+- Upgraded font-awesome to 6.7.2
