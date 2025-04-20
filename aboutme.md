@@ -60,4 +60,5 @@ Oh, and one more thing. If you are wondering about the meaning of my name, well.
 <br><br>
 <center><img src="/assets/img/anudit-meaning.png" alt="Meaning of name Anudit"></center>
 <br>
-<center><h3>Yes! It literally means translated. Interesting, right? </h3><center>
+<center><h4>Yes! It literally means 'translated' in English. Interesting, right? </h4><center>
+<center>PS: It is a culturally resonant name of Sanskrit origin, translating to <strong>‘Illuminated’</strong> or <strong>‘Enlightened’.</strong><center>
