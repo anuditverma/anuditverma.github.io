@@ -51,8 +51,7 @@ Let’s connect if you want to collab on building something super awesome togeth
 </p>
 
 <center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
-	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-dnt="true" data-show-count="false">Follow @anuditverma</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
 
