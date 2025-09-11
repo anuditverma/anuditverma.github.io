@@ -95,6 +95,7 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+  color: white;
 }
 
 /* fix in-page anchors to not be behind fixed header */
