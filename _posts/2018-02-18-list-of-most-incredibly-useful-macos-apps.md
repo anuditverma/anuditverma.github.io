@@ -128,4 +128,14 @@ Clipy is a supercharged clipboard extension app for macOS. It allows you to main
 
 __Project Link:__ [clipy-app.com](https://clipy-app.com/)<br><br>
 
+
+
+<h3>14. iPartition</h3>
+
+<img src="/assets/img/macos_apps/ipartition.jpg" height="120" width="120" align="right" alt="AppCleaner">
+
+iPartition lets you safely create, resize, and delete partitions on Mac and PC. It supports HFS, FAT, NTFS, BootCamp, and can convert partitions without data loss or boot issues. It is completely free now with working license keys.
+
+__Project Link:__ [coriolis-systems.com](https://coriolis-systems.com/)<br><br>
+
 Thank you for reading.
